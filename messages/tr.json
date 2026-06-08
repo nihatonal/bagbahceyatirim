@@ -1,0 +1,178 @@
+{
+  "header": {
+    "home": "Anasayfa",
+    "vineyardInvestment": "Bağ Yatırımı",
+    "vineyards": "Bağlarımız",
+    "investmentModel": "Yatırım Modeli",
+    "about": "Hakkımızda",
+    "contact": "İletişim",
+    "cta": "İletişime Geç",
+    "menu": "Menüyü aç"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Üreten Topraklarda",
+      "titleLine1": "Kalıcı Değer",
+      "titleLine2": "Oluşturun",
+      "description": "Profesyonel olarak yönetilen bağ yatırımlarıyla geleceğe uzanan sürdürülebilir bir varlık inşa edin.",
+      "primaryCta": "Bağ Yatırımını Keşfet",
+      "secondaryCta": "Bağlarımızı İncele",
+      "scroll": "Aşağı Kaydırın",
+      "imageAlt": "Gün batımında üzüm bağları",
+      "features": {
+        "realLand": "Gerçek Arazi",
+        "professionalManagement": "Profesyonel Yönetim",
+        "longTermValue": "Uzun Vadeli Değer"
+      }
+    },
+    "investmentIntro": {
+      "eyebrow": "Neden Bağ?",
+      "title": "Toprağın Gücüyle Büyüyen Bir <gold>Yatırım</gold> Modeli",
+      "description": "Bağlar yalnızca tarımsal üretim alanları değildir. Doğru yönetildiğinde nesiller boyu değer üreten, enflasyona karşı koruma sağlayan ve gerçek getiri potansiyeline sahip varlıklardır.",
+      "emphasis": "Biz, bu değeri sizin için yönetiyoruz.",
+      "imageAlt": "Gün ışığında olgunlaşan üzüm salkımları"
+    },
+    "stats": {
+      "eyebrow": "Sayılarla Bağ Bahçe Yatırım",
+      "experience": {
+        "label": "Yıllık Deneyim"
+      },
+      "land": {
+        "label": "Dönüm Üretim Alanı"
+      },
+      "investors": {
+        "label": "Yatırımcı"
+      },
+      "projects": {
+        "label": "Aktif Proje"
+      }
+    },
+    "process": {
+      "eyebrow": "Nasıl Çalışıyoruz?",
+
+      "selection": {
+        "title": "Arazi Seçimi ve Analiz",
+        "description": "İklim, toprak yapısı ve uzun vadeli potansiyeli değerlendirerek yatırım yapılacak bağı belirliyoruz."
+      },
+
+      "acquisition": {
+        "title": "Satın Alma ve Tapu Süreci",
+        "description": "Tüm resmi işlemleri yürütüyor, tapu devrini güvenli ve şeffaf şekilde tamamlıyoruz."
+      },
+
+      "management": {
+        "title": "Profesyonel Bağ Yönetimi",
+        "description": "Bağın kurulumu, bakımı, üretim süreçleri ve operasyonel yönetimini uzman ekibimiz üstleniyor."
+      },
+
+      "returns": {
+        "title": "Hasat ve Getiri",
+        "description": "Üretim gelirleri ve arazi değer artışıyla yatırımınızın uzun vadeli büyümesini destekliyoruz."
+      }
+    },
+    "featuredVineyard": {
+      "eyebrow": "Seçkin Bağımız",
+      "title": "Konya Bozkırı Bağı",
+      "description": "Bozkır’ın yüksek rakımı ve mineral bakımından zengin topraklarında yetişen Sultaniye üzümleriyle, kaliteli üretim ve uzun vadeli değer artışı hedefliyoruz.",
+      "cta": "Detayları Gör",
+      "imageAlt": "Konya Bozkırı'nda gün batımında üzüm bağı",
+      "previous": "Önceki bağ",
+      "next": "Sonraki bağ",
+      "specs": {
+        "location": {
+          "value": "Konya",
+          "label": "Bozkır"
+        },
+        "altitude": {
+          "value": "1.250 m",
+          "label": "Rakım"
+        },
+        "grape": {
+          "value": "Karaoğlan & Kiçemen",
+          "label": "Üzüm Çeşidi"
+        },
+        "area": {
+          "value": "50 Dönüm",
+          "label": "Alan"
+        },
+        "year": {
+          "value": "2022",
+          "label": "Üretim Yılı"
+        }
+      }
+    },
+    "philosophy": {
+      "eyebrow": "Yatırım Felsefemiz",
+      "title": "Sürdürülebilir Üretim, <gold>Kalıcı Değer</gold>",
+      "respect": {
+        "title": "Toprağa Saygı",
+        "description": "Doğal dengeyi koruyarak, verimli ve sürdürülebilir üretim yapıyoruz."
+      },
+      "management": {
+        "title": "Uzman Yönetim",
+        "description": "Deneyimli ekibimizle operasyonel süreçlerin tamamını yönetiyoruz."
+      },
+      "longTerm": {
+        "title": "Uzun Vadeli Bakış",
+        "description": "Kısa vadeli kazanç değil, nesiller boyu değer üreten yatırımlar hedefliyoruz."
+      }
+    },
+    "journal": {
+      "eyebrow": "Journal",
+      "title": "İçgörüler & Perspektifler",
+      "allPosts": "Tüm Yazılar",
+      "profitability": {
+        "category": "Bağ Yatırımı",
+        "title": "Bağ Yatırımı Karlı mı?",
+        "date": "15 Mayıs 2024",
+        "image": "/images/journal/bag-yatirimi-karli-mi.png",
+        "imageAlt": "Üzüm bağında olgunlaşan salkımlar"
+      },
+      "setupCost": {
+        "category": "Üzümcülük",
+        "title": "Üzüm Bağı Kurulum Maliyeti 2024",
+        "date": "02 Mayıs 2024",
+        "image": "/images/journal/uzum-bagi-kurulum-maliyeti.png",
+        "imageAlt": "Gün batımında üzüm bağı"
+      },
+      "landVsVineyard": {
+        "category": "Tarım Yatırımı",
+        "title": "Tarım Arazisi mi, Bağ mı?",
+        "date": "01 Mayıs 2024",
+        "image": "/images/journal/tarim-arazisi-mi-bag-mi.png",
+        "imageAlt": "Bağ yaprakları ve güneş ışığı"
+      }
+    },
+    "cta": {
+      "eyebrow": "Yatırım Yolculuğu",
+      "title": "Geleceğinizi Üreten <gold>Topraklarla</gold> Büyütün",
+      "description": "Size özel yatırım modelini birlikte değerlendirelim. Uzman ekibimiz, hedeflerinize ve beklentilerinize uygun bağ yatırımını planlamak için hazır.",
+      "button": "Uzmanlarımızla Görüşün",
+      "imageAlt": "Gün batımında üzüm bağları"
+    }
+  },
+  "footer": {
+    "description": "Üreten topraklarda sürdürülebilir değer oluşturarak, yatırımcılarımıza güvenilir ve uzun vadeli getiri sağlıyoruz.",
+    "pages": {
+      "title": "Sayfalar",
+      "vineyardInvestment": "Bağ Yatırımı",
+      "vineyards": "Bağlarımız",
+      "investmentModel": "Yatırım Modeli",
+      "about": "Hakkımızda",
+      "contact": "İletişim"
+    },
+    "resources": {
+      "title": "Kaynaklar",
+      "journal": "Journal",
+      "faq": "Sık Sorulan Sorular",
+      "investmentGuide": "Yatırım Rehberi",
+      "privacy": "Gizlilik Politikası",
+      "terms": "Kullanım Şartları"
+    },
+    "contact": {
+      "title": "İletişim",
+      "address": "İstanbul"
+    },
+    "copyright": "© 2026 Bağ Bahçe Yatırım. Tüm hakları saklıdır."
+  }
+}

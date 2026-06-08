@@ -1,0 +1,159 @@
+{
+  "header": {
+    "home": "Home",
+    "vineyardInvestment": "Vineyard Investment",
+    "vineyards": "Our Vineyards",
+    "investmentModel": "Investment Model",
+    "about": "About",
+    "contact": "Contact",
+    "cta": "Contact Us",
+    "menu": "Open menu"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Productive Lands",
+      "titleLine1": "Create Lasting",
+      "titleLine2": "Value",
+      "description": "Build a sustainable long-term asset through professionally managed vineyard investments.",
+      "primaryCta": "Explore Investment",
+      "secondaryCta": "View Vineyards",
+      "scroll": "Scroll Down",
+      "imageAlt": "Vineyards at sunset",
+      "features": {
+        "realLand": "Real Land",
+        "professionalManagement": "Professional Management",
+        "longTermValue": "Long-Term Value"
+      }
+    },
+    "investmentIntro": {
+      "eyebrow": "Why Vineyards?",
+      "title": "An Investment Model Growing with the Power of <gold>Land</gold>",
+      "description": "Vineyards are not only agricultural production areas. When managed correctly, they become real assets that can generate value across generations, provide resilience against inflation and offer genuine return potential.",
+      "emphasis": "We manage this value for you.",
+      "imageAlt": "Grape clusters ripening in warm sunlight"
+    },
+    "stats": {
+      "eyebrow": "Bag Bahce Investment In Numbers",
+
+      "experience": {
+        "value": "20+",
+        "label": "Years Experience"
+      },
+
+      "land": {
+        "label": "Acres Under Production"
+      },
+
+      "investors": {
+        "label": "Investors"
+      },
+
+      "projects": {
+        "label": "Active Projects"
+      }
+    },
+    "process": {
+      "eyebrow": "How It Works?",
+
+      "selection": {
+        "title": "Land Selection & Analysis",
+        "description": "We identify the most suitable vineyard investment opportunities by evaluating climate conditions, soil quality, and long-term growth potential."
+      },
+
+      "acquisition": {
+        "title": "Acquisition & Title Deed Process",
+        "description": "We manage all legal procedures and complete the title deed transfer through a secure and transparent process."
+      },
+
+      "management": {
+        "title": "Professional Vineyard Management",
+        "description": "Our experienced team handles vineyard establishment, maintenance, production, and day-to-day operational management."
+      },
+
+      "returns": {
+        "title": "Harvest & Returns",
+        "description": "We support the long-term growth of your investment through production income and land value appreciation."
+      }
+    },
+    "featuredVineyard": {
+      "eyebrow": "Featured Vineyard",
+      "title": "Konya Bozkır Vineyard",
+      "description": "Located in the high-altitude lands of Bozkır, our vineyard is positioned for quality production and long-term value growth with Sultaniye grapes grown in mineral-rich soils.",
+      "cta": "View Details",
+      "imageAlt": "A vineyard in Konya Bozkır at sunset",
+      "previous": "Previous vineyard",
+      "next": "Next vineyard",
+      "specs": {
+        "location": {
+          "value": "Konya",
+          "label": "Bozkır"
+        },
+        "altitude": {
+          "value": "1,250 m",
+          "label": "Altitude"
+        },
+        "grape": {
+          "value": "Karaoglan & Kicemen",
+          "label": "Grape Variety"
+        },
+        "area": {
+          "value": "50 Decares",
+          "label": "Area"
+        },
+        "year": {
+          "value": "2022",
+          "label": "Production Year"
+        }
+      }
+    },
+    "philosophy": {
+      "eyebrow": "Our Investment Philosophy",
+      "title": "Sustainable Production, <gold>Lasting Value</gold>",
+      "respect": {
+        "title": "Respect for Land",
+        "description": "We protect the natural balance while enabling productive and sustainable cultivation."
+      },
+      "management": {
+        "title": "Expert Management",
+        "description": "Our experienced team manages the full operational process with discipline."
+      },
+      "longTerm": {
+        "title": "Long-Term View",
+        "description": "We focus on investments that create value across generations, not short-term gains."
+      }
+    },
+    "journal": {
+      "eyebrow": "Journal",
+      "title": "Insights & Perspectives",
+      "allPosts": "All Articles",
+      "profitability": {
+        "category": "Vineyard Investment",
+        "title": "Is Vineyard Investment Profitable?",
+        "date": "May 15, 2024",
+        "image": "/images/journal/bag-yatirimi-karli-mi.png",
+        "imageAlt": "Grape clusters ripening in a vineyard"
+      },
+      "setupCost": {
+        "category": "Viticulture",
+        "title": "Vineyard Setup Cost in 2024",
+        "date": "May 02, 2024",
+        "image": "/images/journal/uzum-bagi-kurulum-maliyeti.png",
+        "imageAlt": "A vineyard at sunset"
+      },
+      "landVsVineyard": {
+        "category": "Agricultural Investment",
+        "title": "Agricultural Land or Vineyard?",
+        "date": "May 01, 2024",
+        "image": "/images/journal/tarim-arazisi-mi-bag-mi.png",
+        "imageAlt": "Vine leaves under sunlight"
+      }
+    },
+    "cta": {
+      "eyebrow": "Investment Journey",
+      "title": "Grow Your Future with <gold>Productive Land</gold>",
+      "description": "Let us evaluate a tailored investment model for you. Our expert team is ready to plan a vineyard investment aligned with your goals and expectations.",
+      "button": "Speak with Our Experts",
+      "imageAlt": "Vineyards at sunset"
+    }
+  }
+}
