@@ -52,10 +52,8 @@ export default function FeaturedVineyardSection() {
     <section className="relative overflow-hidden bg-brand-night text-brand-ivory">
       <div className="absolute inset-0 bg-[radial-gradient(circle_at_20%_20%,rgba(200,168,107,0.13),transparent_34%)]" />
 
-      <div className="relative z-10 grid min-h-[560px] lg:grid-cols-[0.95fr_1.25fr]">
+      <div className="relative z-10 grid min-h-[560px] lg:grid-cols-[0.9fr_1.35fr]">
         <div className="relative order-2 flex items-center px-6 py-16 lg:order-1 lg:px-14 lg:py-20">
-          <div className="absolute inset-y-0 right-0 hidden w-40 bg-gradient-to-r from-brand-night to-transparent lg:block" />
-
           <FadeUp className="relative z-10 max-w-2xl">
             <p className="mb-5 text-xs font-semibold uppercase tracking-luxury text-brand-gold">
               {t("eyebrow")}

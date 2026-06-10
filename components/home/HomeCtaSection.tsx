@@ -27,8 +27,8 @@ export default function HomeCtaSection() {
           className="object-cover object-center"
         />
 
-        <div className="absolute inset-0 bg-[linear-gradient(90deg,#030805_0%,rgba(3,8,5,0.88)_34%,rgba(3,8,5,0.42)_68%,rgba(3,8,5,0.22)_100%)]" />
-        <div className="absolute inset-0 bg-[linear-gradient(180deg,rgba(3,8,5,0.35)_0%,rgba(3,8,5,0.28)_45%,rgba(3,8,5,0.78)_100%)]" />
+        <div className="absolute inset-0 bg-[linear-gradient(90deg,#030805_0%,rgba(3,8,5,0.28)_34%,rgba(3,8,5,0.22)_68%,rgba(3,8,5,0.2)_100%)]" />
+        <div className="absolute inset-0 bg-[linear-gradient(180deg,rgba(3,8,5,0.25)_0%,rgba(3,8,5,0.08)_45%,rgba(3,8,5,0.08)_100%)]" />
 
         <div className="relative z-10 mx-auto flex min-h-[420px] max-w-[1440px] items-center px-6 py-20 lg:min-h-[520px] lg:px-14">
           <div className="grid w-full gap-10 lg:grid-cols-[1.15fr_0.85fr] lg:items-center">

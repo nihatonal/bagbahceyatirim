@@ -32,7 +32,7 @@ export default function HomeHero() {
         {/* Mobile image */}
         <div className="absolute inset-0 md:hidden">
           <Image
-           src="/images/home/hero-vineyard-mobile.webp"
+            src="/images/home/hero-vineyard-mobile.webp"
             alt={t("imageAlt")}
             fill
             priority
@@ -69,9 +69,14 @@ export default function HomeHero() {
         </div>
       </div>
 
-      <div className="absolute inset-0 bg-[linear-gradient(90deg,#030805_0%,rgba(3,8,5,0.96)_18%,rgba(3,8,5,0.78)_38%,rgba(3,8,5,0.04)_62%,rgba(3,8,5,0.08)_100%)]" />
-      <div className="absolute inset-0 bg-[linear-gradient(180deg,rgba(3,8,5,0.16)_0%,rgba(3,8,5,0.10)_42%,rgba(3,8,5,0.20)_100%)]" />
-      <div className="absolute inset-0 bg-[linear-gradient(90deg,rgba(3,8,5,0.94)_0%,rgba(3,8,5,0.72)_58%,rgba(3,8,5,0.12)_100%)] lg:hidden" />
+      {/* Desktop Left Overlay */}
+      <div className="absolute inset-0 hidden lg:block bg-[linear-gradient(90deg,rgba(3,8,5,0.92)_0%,rgba(3,8,5,0.82)_22%,rgba(3,8,5,0.48)_46%,rgba(3,8,5,0.08)_72%,rgba(3,8,5,0)_100%)]" />
+
+      {/* Bottom Depth */}
+      <div className="absolute inset-0 bg-[linear-gradient(180deg,rgba(3,8,5,0)_0%,rgba(3,8,5,0)_85%,rgba(3,8,5,0.22)_100%)]" />
+
+      {/* Sun Glow */}
+      <div className="pointer-events-none absolute inset-0 hidden lg:block bg-[radial-gradient(circle_at_88%_14%,rgba(230,196,125,0.22),transparent_28%)]" />
       {/* Content */}
       <div className="relative z-10 mx-auto flex h-full max-w-[1440px] items-center px-6 pt-24 lg:px-14 lg:pt-28">
         <div className="max-w-[720px] border-l border-brand-gold/70 pl-6 lg:pl-12">
@@ -82,7 +87,9 @@ export default function HomeHero() {
           </FadeUp>
 
           <h1 className="font-display text-[3.35rem] leading-[0.94] tracking-[-0.045em] md:text-7xl lg:text-[6.8rem]">
-            <TextReveal className="text-brand-champagne ">{t("titleLine1")}</TextReveal>
+            <TextReveal className="text-brand-champagne ">
+              {t("titleLine1")}
+            </TextReveal>
             <span className="block text-brand-ivory">
               <TextReveal delay={0.15}>{t("titleLine2")}</TextReveal>
             </span>

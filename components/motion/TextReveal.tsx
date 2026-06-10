@@ -1,10 +1,12 @@
-'use client';
+"use client";
 
-import { motion } from 'framer-motion';
-import { cn } from '@/lib/utils';
+import { type ReactNode } from "react";
+import { motion } from "framer-motion";
+
+import { cn } from "@/lib/utils";
 
 type TextRevealProps = {
-  children: string;
+  children: ReactNode;
   className?: string;
   delay?: number;
 };
@@ -14,42 +16,19 @@ export default function TextReveal({
   className,
   delay = 0,
 }: TextRevealProps) {
-  const words = children.split(' ');
-
   return (
     <motion.div
-      initial="hidden"
-      whileInView="visible"
-      viewport={{ once: true, amount: 0.4 }}
+      initial={{ y: 72, opacity: 0 }}
+      whileInView={{ y: 0, opacity: 1 }}
+      viewport={{ once: true, amount: 0.35 }}
       transition={{
-        staggerChildren: 0.045,
-        delayChildren: delay,
+        duration: 1,
+        delay,
+        ease: [0.22, 1, 0.36, 1],
       }}
-      className={cn('overflow-hidden', className)}
+      className={cn("will-change-transform", className)}
     >
-      {words.map((word, index) => (
-        <span key={`${word}-${index}`} className="mr-[0.28em] inline-block overflow-hidden">
-          <motion.span
-            variants={{
-              hidden: {
-                y: '110%',
-                opacity: 0,
-              },
-              visible: {
-                y: '0%',
-                opacity: 1,
-              },
-            }}
-            transition={{
-              duration: 0.9,
-              ease: [0.22, 1, 0.36, 1],
-            }}
-            className="inline-block will-change-transform"
-          >
-            {word}
-          </motion.span>
-        </span>
-      ))}
+      {children}
     </motion.div>
   );
 }

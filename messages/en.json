@@ -9,6 +9,31 @@
     "cta": "Contact Us",
     "menu": "Open menu"
   },
+
+  "footer": {
+    "description": "We create sustainable value through productive agricultural land, providing our investors with a reliable and long-term investment opportunity.",
+    "pages": {
+      "title": "Pages",
+      "vineyardInvestment": "Vineyard Investment",
+      "vineyards": "Our Vineyards",
+      "investmentModel": "Investment Model",
+      "about": "About Us",
+      "contact": "Contact"
+    },
+    "resources": {
+      "title": "Resources",
+      "journal": "Journal",
+      "faq": "Frequently Asked Questions",
+      "investmentGuide": "Investment Guide",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Use"
+    },
+    "contact": {
+      "title": "Contact",
+      "address": "Küçükbakkalköy District, Şenlik Street No:5, Ataşehir / Istanbul"
+    },
+    "copyright": "© 2026 Bağ Bahçe Investment. All rights reserved."
+  },
   "home": {
     "hero": {
       "eyebrow": "Productive Lands",
@@ -154,6 +179,358 @@
       "description": "Let us evaluate a tailored investment model for you. Our expert team is ready to plan a vineyard investment aligned with your goals and expectations.",
       "button": "Speak with Our Experts",
       "imageAlt": "Vineyards at sunset"
+    }
+  },
+  "vineyardInvestment": {
+    "hero": {
+      "eyebrow": "Vineyard Investment",
+      "titleLine1": "Transform the Power",
+      "titleLine2": "of Land into",
+      "titleLine3": "Lasting Value.",
+      "description": "Vineyard investment is a real asset model that grows with nature’s cycle and preserves value across generations.",
+      "primaryCta": "Plan Your Investment",
+      "secondaryCta": "Explore Vineyard Investment",
+      "imageAlt": "Grape clusters and vineyard landscape at sunset",
+      "features": {
+        "realAsset": "Real Asset",
+        "productiveLand": "Productive Land",
+        "longTermValue": "Long-Term Value"
+      }
+    },
+
+    "why": {
+      "eyebrow": "Why Vineyard Investment?",
+      "title": "Land is not only preserved. <gold>It also creates value.</gold>",
+      "description": "Vineyard investment combines the security of a tangible asset with production, income potential and long-term value growth.",
+      "imageAlt": "A wide vineyard landscape with mountains under warm sunlight",
+      "realAsset": {
+        "title": "Tangible Asset",
+        "description": "A real, ownable asset built on productive land."
+      },
+      "productionPower": {
+        "title": "Production Power",
+        "description": "Vineyards create recurring production and income potential."
+      },
+      "inflationProtection": {
+        "title": "Inflation Resilience",
+        "description": "Land and agricultural production provide natural resilience against inflation."
+      },
+      "longTermGrowth": {
+        "title": "Long-Term Growth",
+        "description": "It grows through land value appreciation and brand value over time."
+      }
+    },
+    "comparison": {
+      "title": "Traditional Investments vs. Vineyard Investment",
+      "description": "An investment that produces, creates value and can be transferred to the future with confidence.",
+      "columns": {
+        "type": "Investment Type",
+        "tangibleAsset": "Tangible Asset",
+        "production": "Production",
+        "regularIncome": "Regular Income",
+        "longTermValue": "Long-Term Value Growth"
+      },
+      "rows": {
+        "gold": "Gold",
+        "currency": "Currency",
+        "deposit": "Deposit / Interest",
+        "vineyard": "Vineyard Investment"
+      }
+    },
+
+    "valueCreation": {
+      "title": "How Does a Vineyard Create Value?",
+      "land": {
+        "title": "Land",
+        "description": "Selecting the right location and productive soil",
+        "image": "/images/vineyard-investment/value-land.png",
+        "imageAlt": "Vineyard land"
+      },
+      "planting": {
+        "title": "Planting",
+        "description": "The vineyard foundation is established with expert care",
+        "image": "/images/vineyard-investment/value-planting.png",
+        "imageAlt": "A young plant being planted in soil"
+      },
+      "care": {
+        "title": "Care",
+        "description": "Professional care strengthens the vineyard",
+        "image": "/images/vineyard-investment/value-care.png",
+        "imageAlt": "Checking vine leaves"
+      },
+      "production": {
+        "title": "Production",
+        "description": "Healthy vineyards produce quality crops",
+        "image": "/images/vineyard-investment/value-production.png",
+        "imageAlt": "Ripening grape clusters"
+      },
+      "harvest": {
+        "title": "Harvest",
+        "description": "Harvesting is carried out carefully and on time",
+        "image": "/images/vineyard-investment/value-harvest.png",
+        "imageAlt": "Grapes collected in a crate"
+      },
+      "growth": {
+        "title": "Value Growth",
+        "description": "Land and product value grows over time",
+        "image": "/images/vineyard-investment/value-growth.png",
+        "imageAlt": "Vineyard at sunset"
+      }
+    },
+    "returnSources": {
+      "eyebrow": "Return Sources",
+      "title": "Where Does Your Investment <gold>Create Value?</gold>",
+      "description": "Vineyard investment is not only land ownership. Production, land appreciation and professional operation work together to create long-term investment value.",
+      "productionIncome": {
+        "title": "Production Income",
+        "description": "Income generated from grape sales after harvest creates annual cash-flow potential for your investment."
+      },
+      "landAppreciation": {
+        "title": "Land Appreciation",
+        "description": "Regional development, limited land supply and production capability support long-term capital gain potential."
+      },
+      "professionalOperation": {
+        "title": "Professional Operation",
+        "description": "The expert management model focuses on improving vineyard efficiency and sustainable production capacity."
+      },
+      "diagram": {
+        "title": "Value Creation Model",
+        "productionIncome": "Production Income",
+        "annualCashFlow": "Annual Cash Flow",
+        "landAppreciation": "Land Appreciation",
+        "capitalGain": "Long-Term Capital Gain",
+        "professionalOperation": "Professional Management",
+        "sustainableYield": "Sustainable Yield",
+        "outcomeLabel": "Outcome",
+        "outcome": "Lasting Investment Value"
+      }
+    },
+    "risk": {
+      "title": "Our Risk Management",
+      "climate": {
+        "title": "Climate Risk",
+        "description": "We minimize climate risks through regional climate analysis and early warning systems."
+      },
+      "operation": {
+        "title": "Operational Risk",
+        "description": "We manage risks through experienced teams and standardized operational processes."
+      },
+      "production": {
+        "title": "Production Risk",
+        "description": "We secure productivity through proper agricultural techniques and continuous field controls."
+      },
+      "management": {
+        "title": "Management Risk",
+        "description": "Transparent reporting and corporate governance help protect investor confidence."
+      }
+    },
+    "faq": {
+      "eyebrow": "Frequently Asked Questions",
+      "valueTime": {
+        "question": "How long does it take for a vineyard investment to gain value?",
+        "answer": "Vineyard investment is a long-term model. Value growth develops over time through land location, production efficiency and professional operation."
+      },
+      "ownership": {
+        "question": "Is the title deed registered to me?",
+        "answer": "Ownership and usage rights are clearly defined according to the investment model. All details are shared transparently during the investment process."
+      },
+      "production": {
+        "question": "Who manages the production?",
+        "answer": "Vineyard care, production and operational processes are professionally managed by expert teams."
+      },
+      "incomeModel": {
+        "question": "How does the income model work?",
+        "answer": "The income model operates through production income, value appreciation and distribution principles defined by the investment structure."
+      },
+      "minimumInvestment": {
+        "question": "What is the minimum investment amount?",
+        "answer": "The minimum investment amount may vary depending on the vineyard portfolio and investment period. We can evaluate the suitable model together."
+      },
+      "exit": {
+        "question": "Is there an exit or resale option?",
+        "answer": "Exit and resale options are planned according to the investment structure. Details are clarified during the investment consultation."
+      },
+      "cta": {
+        "title": "Let’s Plan Your <gold>Vineyard Investment</gold> Together",
+        "description": "Our expert team is ready to identify the investment model best suited to you.",
+        "button": "Speak with Our Experts",
+        "imageAlt": "Vineyard landscape and investment consultation atmosphere"
+      }
+    }
+  },
+  "vineyards": {
+    "hero": {
+      "eyebrow": "Our Vineyards",
+      "titleLine1": "Selected Land.",
+      "titleLine2": "Lasting Value.",
+      "description": "Each vineyard is carefully selected and professionally managed according to its potential to create long-term value.",
+      "primaryCta": "Explore Our Vineyards",
+      "secondaryCta": "Explore Investment Model",
+      "imageAlt": "Selected vineyards and mountain landscape at sunset",
+      "features": {
+        "selectedLand": "Selected Land",
+        "managedPortfolio": "Managed Portfolio",
+        "longTermValue": "Long-Term Value"
+      }
+    },
+    "portfolioApproach": {
+      "eyebrow": "Our Portfolio Approach",
+      "title": "Not every land is <gold>an investment.</gold>",
+      "lead": "Vineyard investment is not simply about buying land. It requires identifying soil and locations capable of creating long-term value.",
+      "paragraph1": "Every vineyard included in our portfolio is evaluated through climate, altitude, soil structure, water access and production potential.",
+      "paragraph2": "Our goal is not only to select productive land today, but to professionally manage vineyards with the capacity to create value for generations.",
+      "imageAlt": "Mountain landscape and selected vineyard portfolio"
+    },
+    "activePortfolio": {
+      "eyebrow": "Active Portfolio",
+      "title": "Konya Bozkır Vineyard Estate",
+      "description": "Located in the high-altitude, mineral-rich lands of Konya, our vineyard has been selected for sustainable grape production and long-term value appreciation. With extensive sunshine exposure, fertile soil structure, and professional vineyard management, it offers strong production quality and investment potential.",
+      "cta": "Explore Details",
+      "imageAlt": "Konya Bozkır Vineyard at sunset",
+      "stats": {
+        "altitude": {
+          "value": "1,250 m",
+          "label": "Altitude"
+        },
+        "area": {
+          "value": "50 Acres",
+          "label": "Production Area"
+        },
+        "grape": {
+          "value": "Sultaniye",
+          "label": "Grape Variety"
+        },
+        "year": {
+          "value": "2022",
+          "label": "Established"
+        }
+      }
+    },
+    "whyKonya": {
+      "eyebrow": "Why Konya?",
+      "title": "High altitude, strong sunlight and <gold>mineral-rich soil.</gold>",
+      "description": "Konya Bozkır offers strong potential for vineyard investment and sustainable grape production through its climate, altitude and soil structure. These qualities support both production quality and long-term investment value.",
+      "imageAlt": "Konya steppe and historic city silhouette",
+      "altitude": {
+        "title": "High Altitude",
+        "description": "Altitude above 1,200 meters supports cool nights, balanced ripening and stronger grape character."
+      },
+      "sunshine": {
+        "title": "Long Sunshine Exposure",
+        "description": "Extended daily sunlight helps create a balanced sugar profile and aromatic structure in Sultaniye grapes."
+      },
+      "soil": {
+        "title": "Mineral-Rich Soil",
+        "description": "Limestone and mineral-rich soil structure improves vineyard productivity and production quality."
+      }
+    },
+    "story": {
+      "eyebrow": "The Story Behind The Vineyard",
+      "title": "This land is a legacy, and this vineyard is an investment in the future.",
+      "paragraph1": "The Konya Bozkır Vineyard Estate was selected not only for today's production capacity but also for its ability to create value for generations.",
+      "paragraph2": "Its high altitude, mineral-rich soil structure and extended sunshine exposure support sustainable grape production and long-term appreciation potential.",
+      "paragraph3": "Through professional management, we oversee production processes and continuously protect and improve the vineyard on behalf of our investors.",
+      "imageAlt": "Harvested grape clusters and vineyard workers",
+      "values": {
+        "sustainable": "Sustainable Production",
+        "management": "Professional Management",
+        "longTerm": "Long-Term Value"
+      }
+    },
+    "gallery": {
+      "eyebrow": "Vineyard Gallery",
+      "title": "Explore Konya Bozkır Vineyard Up Close",
+      "description": "Selected visuals from our production areas, harvest process, soil structure and vineyard life.",
+      "previous": "Previous image",
+      "next": "Next image",
+      "close": "Close gallery",
+      "landscape": {
+        "image": "/images/vineyards/gallery-landscape.webp",
+        "imageAlt": "Rows of grapevines illuminated by sunlight in Konya Bozkır Vineyard"
+      },
+      "grapes": {
+        "image": "/images/vineyards/gallery-grapes.webp",
+        "imageAlt": "Ripening Sultaniye grape clusters among vine leaves"
+      },
+      "estate": {
+        "image": "/images/vineyards/gallery-estate.webp",
+        "imageAlt": "Vineyard land with mountain landscape in Konya Bozkır"
+      },
+      "harvest": {
+        "image": "/images/vineyards/gallery-harvest.webp",
+        "imageAlt": "Harvested grapes collected in wooden crates"
+      },
+      "sunset": {
+        "image": "/images/vineyards/gallery-sunset.webp",
+        "imageAlt": "Vineyard rows stretching into the sunset"
+      },
+      "soil": {
+        "image": "/images/vineyards/gallery-soil.webp",
+        "imageAlt": "Mineral-rich vineyard soil"
+      }
+    },
+    "cta": {
+      "eyebrow": "Our Portfolio Keeps Expanding",
+      "title": "Let’s evaluate selected vineyard opportunities <gold>together.</gold>",
+      "description": "Every land is analyzed according to its potential to create long-term value. Speak with our experts to learn more about existing vineyards and new investment opportunities in our portfolio.",
+      "primaryCta": "Speak with Our Experts",
+      "secondaryCta": "Explore Vineyard Investment",
+      "imageAlt": "Wide vineyard portfolio landscape at sunset"
+    }
+  },
+  "investmentModel": {
+    "hero": {
+      "eyebrow": "Investment Model",
+      "titleLine1": "A System That",
+      "titleLine2": "Turns Land Into",
+      "titleLine3": "Value.",
+      "description": "Every investment is brought to life through data-driven analysis and professional management.",
+      "cta": "Explore Our Model",
+      "imageAlt": "Professional analysis desk for vineyard investment model"
+    },
+    "steps": {
+      "eyebrow": "Our 4-Step Investment Model",
+      "seoTitle": "Vineyard investment model and professional agricultural asset management process",
+      "analysis": {
+        "title": "Land Analysis",
+        "description": "Climate, altitude, soil structure, water access and production potential are evaluated through a multi-dimensional analysis process.",
+        "imageAlt": "Land and climate analysis for vineyard investment"
+      },
+      "portfolio": {
+        "title": "Portfolio Inclusion",
+        "description": "Selected lands with long-term value creation potential are carefully evaluated and included in the investment portfolio.",
+        "imageAlt": "Selected vineyard land included in the portfolio"
+      },
+      "management": {
+        "title": "Professional Management",
+        "description": "Planting, maintenance, irrigation, harvest and operational processes are professionally managed by expert teams.",
+        "imageAlt": "Professional vineyard management and field control"
+      },
+      "value": {
+        "title": "Long-Term Value Creation",
+        "description": "Production income, land appreciation and sustainable management together support the investment value over time.",
+        "imageAlt": "Harvested grapes and long-term value creation"
+      }
+    },
+    "whyModelWorks": {
+      "eyebrow": "Why This Model Works",
+      "seoTitle": "Why the vineyard investment model works and how it creates long-term value",
+      "dataSelection": {
+        "title": "Data-Driven Selection",
+        "description": "We identify the right land through climate, altitude, soil structure and production potential analysis."
+      },
+      "professionalManagement": {
+        "title": "Professional Management",
+        "description": "The vineyard investment is operationally managed by expert teams from planting to harvest."
+      },
+      "transparentReporting": {
+        "title": "Transparent Reporting",
+        "description": "Production, maintenance and financial performance are shared with investors through regular reports."
+      },
+      "longTermGrowth": {
+        "title": "Long-Term Value Growth",
+        "description": "Land, production and brand value are managed together to support sustainable investment value."
+      }
     }
   }
 }

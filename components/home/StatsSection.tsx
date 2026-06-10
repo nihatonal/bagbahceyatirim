@@ -5,8 +5,8 @@ import Stagger, { StaggerItem } from "@/components/motion/Stagger";
 import AnimatedCounter from "@/components/motion/AnimatedCounter";
 
 const stats = [
-  { key: "experience", value: 20 },
-  { key: "land", value: 100 },
+  { key: "experience", value: 5 },
+  { key: "land", value: 50 },
   { key: "investors", value: 250 },
   { key: "projects", value: 15 },
 ] as const;

@@ -125,21 +125,21 @@
         "category": "Bağ Yatırımı",
         "title": "Bağ Yatırımı Karlı mı?",
         "date": "15 Mayıs 2024",
-        "image": "/images/journal/bag-yatirimi-karli-mi.png",
+        "image": "/images/journal/bag-yatirimi-karli-mi.webp",
         "imageAlt": "Üzüm bağında olgunlaşan salkımlar"
       },
       "setupCost": {
         "category": "Üzümcülük",
         "title": "Üzüm Bağı Kurulum Maliyeti 2024",
         "date": "02 Mayıs 2024",
-        "image": "/images/journal/uzum-bagi-kurulum-maliyeti.png",
+        "image": "/images/journal/uzum-bagi-kurulum-maliyeti.webp",
         "imageAlt": "Gün batımında üzüm bağı"
       },
       "landVsVineyard": {
         "category": "Tarım Yatırımı",
         "title": "Tarım Arazisi mi, Bağ mı?",
         "date": "01 Mayıs 2024",
-        "image": "/images/journal/tarim-arazisi-mi-bag-mi.png",
+        "image": "/images/journal/tarim-arazisi-mi-bag-mi.webp",
         "imageAlt": "Bağ yaprakları ve güneş ışığı"
       }
     },
@@ -174,5 +174,348 @@
       "address": "İstanbul"
     },
     "copyright": "© 2026 Bağ Bahçe Yatırım. Tüm hakları saklıdır."
+  },
+  "vineyardInvestment": {
+    "hero": {
+      "eyebrow": "Bağ Yatırımı",
+      "titleLine1": "Toprağın Gücünü",
+      "titleLine2": "Kalıcı Değere",
+      "titleLine3": "Dönüştürün.",
+      "description": "Bağ yatırımı; doğanın döngüsüyle büyüyen, nesiller boyu değerini koruyan gerçek varlık yatırımıdır.",
+      "primaryCta": "Yatırımınızı Planlayalım",
+      "secondaryCta": "Bağ Yatırımını Keşfet",
+      "imageAlt": "Gün batımında üzüm salkımları ve bağ manzarası",
+      "features": {
+        "realAsset": "Gerçek Varlık",
+        "productiveLand": "Üreten Toprak",
+        "longTermValue": "Uzun Vadeli Değer"
+      }
+    },
+    "why": {
+      "eyebrow": "Neden Bağ Yatırımı?",
+      "title": "Toprak yalnızca korunmaz. <gold>Değer de üretir.</gold>",
+      "description": "Bağ yatırımı, somut varlık güvencesiyle birlikte üretim, gelir ve değer artışını bir arada sunan nadir yatırım araçlarından biridir.",
+      "imageAlt": "Gün ışığında geniş üzüm bağı ve dağ manzarası",
+      "realAsset": {
+        "title": "Somut Varlık",
+        "description": "Gerçek arazi üzerinde, elle tutulur bir varlık."
+      },
+      "productionPower": {
+        "title": "Üretim Gücü",
+        "description": "Bağlar her yıl düzenli üretim ve gelir sağlar."
+      },
+      "inflationProtection": {
+        "title": "Enflasyona Karşı Koruma",
+        "description": "Toprak ve tarımsal üretim, enflasyona karşı doğal bir koruma sağlar."
+      },
+      "longTermGrowth": {
+        "title": "Uzun Vadeli Değer Artışı",
+        "description": "Zaman içinde artan arazi değeri ve marka değeri ile büyür."
+      }
+    },
+    "comparison": {
+      "title": "Geleneksel Yatırımlar vs. Bağ Yatırımı",
+      "description": "Üreten, değer yaratan ve geleceğe güvenle aktarılan yatırım.",
+      "columns": {
+        "type": "Yatırım Türü",
+        "tangibleAsset": "Somut Varlık",
+        "production": "Üretim",
+        "regularIncome": "Düzenli Gelir",
+        "longTermValue": "Uzun Vadeli Değer Artışı"
+      },
+      "rows": {
+        "gold": "Altın",
+        "currency": "Döviz",
+        "deposit": "Mevduat / Faiz",
+        "vineyard": "Bağ Yatırımı"
+      }
+    },
+    "valueCreation": {
+      "title": "Bir Bağ Nasıl Değer Üretir?",
+      "land": {
+        "title": "Arazi",
+        "description": "Doğru lokasyon ve verimli toprak seçimi",
+        "image": "/images/vineyard-investment/value-land.webp",
+        "imageAlt": "Üzüm bağı arazisi"
+      },
+      "planting": {
+        "title": "Dikim",
+        "description": "Uzman dokunuşuyla bağın temelleri atılır",
+        "image": "/images/vineyard-investment/value-planting.webp",
+        "imageAlt": "Toprağa dikilen genç fidan"
+      },
+      "care": {
+        "title": "Bakım",
+        "description": "Profesyonel bakım ile bağlar güçlenir",
+        "image": "/images/vineyard-investment/value-care.webp",
+        "imageAlt": "Bağ yapraklarının kontrol edilmesi"
+      },
+      "production": {
+        "title": "Üretim",
+        "description": "Sağlıklı bağlardan nitelikli ürün elde edilir",
+        "image": "/images/vineyard-investment/value-production.webp",
+        "imageAlt": "Olgunlaşan üzüm salkımları"
+      },
+      "harvest": {
+        "title": "Hasat",
+        "description": "Zamanında ve özenli hasat gerçekleştirilir",
+        "image": "/images/vineyard-investment/value-harvest.webp",
+        "imageAlt": "Kasaya toplanan üzümler"
+      },
+      "growth": {
+        "title": "Değer Artışı",
+        "description": "Arazi ve ürün değeri yıl boyunca artar",
+        "image": "/images/vineyard-investment/value-growth.webp",
+        "imageAlt": "Gün batımında üzüm bağı"
+      }
+    },
+
+    "returnSources": {
+      "eyebrow": "Getiri Kaynakları",
+      "title": "Yatırımınız Nereden <gold>Değer Üretir?</gold>",
+      "description": "Bağ yatırımı yalnızca araziye sahip olmak değildir. Üretim, değer artışı ve profesyonel işletme modeli birlikte çalışarak uzun vadeli yatırım değerini oluşturur.",
+      "productionIncome": {
+        "title": "Üretim Geliri",
+        "description": "Hasat sonrası üzüm satışından elde edilen gelir, yatırımınız için yıllık nakit akışı potansiyeli oluşturur."
+      },
+      "landAppreciation": {
+        "title": "Arazi Değer Artışı",
+        "description": "Bölgenin gelişimi, sınırlı arazi arzı ve üretim kabiliyeti sayesinde uzun vadeli sermaye kazancı hedeflenir."
+      },
+      "professionalOperation": {
+        "title": "Profesyonel İşletme",
+        "description": "Uzman yönetim modeli, bağın verimliliğini ve sürdürülebilir üretim kapasitesini artırmaya odaklanır."
+      },
+      "diagram": {
+        "title": "Değer Üretim Modeli",
+        "productionIncome": "Üretim Geliri",
+        "annualCashFlow": "Yıllık Nakit Akışı",
+        "landAppreciation": "Arazi Değer Artışı",
+        "capitalGain": "Uzun Vadeli Sermaye Kazancı",
+        "professionalOperation": "Profesyonel Yönetim",
+        "sustainableYield": "Sürdürülebilir Verim",
+        "outcomeLabel": "Sonuç",
+        "outcome": "Kalıcı Yatırım Değeri"
+      }
+    },
+    "risk": {
+      "title": "Risk Yönetimimiz",
+      "climate": {
+        "title": "İklim Riski",
+        "description": "Bölgesel iklim analizleri ve erken uyarı sistemleri ile iklim risklerini minimize ediyoruz."
+      },
+      "operation": {
+        "title": "Operasyon Riski",
+        "description": "Deneyimli ekip ve standart operasyon süreçleri ile riskleri yönetim altına alıyoruz."
+      },
+      "production": {
+        "title": "Üretim Riski",
+        "description": "Doğru tarım teknikleri ve sürekli saha kontrolleri ile verimliliği güvence altına alıyoruz."
+      },
+      "management": {
+        "title": "Yönetim Riski",
+        "description": "Şeffaf raporlama ve kurumsal yönetim anlayışı ile yatırımcı güvence altına alınır."
+      }
+    },
+    "faq": {
+      "eyebrow": "Sık Sorulan Sorular",
+      "valueTime": {
+        "question": "Bağ yatırımı ne kadar sürede değer kazanır?",
+        "answer": "Bağ yatırımı uzun vadeli bir modeldir. Değer artışı; arazi konumu, üretim verimi ve profesyonel işletme performansına göre zaman içinde oluşur."
+      },
+      "ownership": {
+        "question": "Tapu bana mı ait oluyor?",
+        "answer": "Yatırım modeline göre mülkiyet ve kullanım hakları açık şekilde belirlenir. Tüm detaylar yatırım sürecinde şeffaf olarak paylaşılır."
+      },
+      "production": {
+        "question": "Üretimi kim gerçekleştiriyor?",
+        "answer": "Bağın bakım, üretim ve operasyonel süreçleri uzman ekipler tarafından profesyonel olarak yönetilir."
+      },
+      "incomeModel": {
+        "question": "Gelir modeli nasıl işliyor?",
+        "answer": "Gelir modeli; üretimden elde edilen gelir, değer artışı ve yatırım yapısına göre belirlenen paylaşım esasları üzerinden çalışır."
+      },
+      "minimumInvestment": {
+        "question": "Minimum yatırım tutarı nedir?",
+        "answer": "Minimum yatırım tutarı portföydeki bağın yapısına ve yatırım dönemine göre değişebilir. Size uygun modeli birlikte değerlendirebiliriz."
+      },
+      "exit": {
+        "question": "Çıkış (satış) imkânı var mı?",
+        "answer": "Yatırım yapısına göre çıkış ve satış seçenekleri önceden planlanır. Detaylar yatırım görüşmesinde netleştirilir."
+      },
+      "cta": {
+        "title": "Bağ Yatırımınızı <gold>Birlikte Planlayalım</gold>",
+        "description": "Uzman ekibimiz, size en uygun yatırım modelini belirlemek için hazır.",
+        "button": "Uzmanlarımızla Görüşün",
+        "imageAlt": "Bağ manzarası ve yatırım görüşmesi atmosferi"
+      }
+    }
+  },
+  "vineyards": {
+    "hero": {
+      "eyebrow": "Bağlarımız",
+      "titleLine1": "Seçilmiş Topraklar.",
+      "titleLine2": "Kalıcı Değer.",
+      "description": "Her bağ, uzun vadeli değer üretme potansiyeline göre titizlikle seçilir ve profesyonel olarak yönetilir.",
+      "primaryCta": "Bağlarımızı İnceleyin",
+      "secondaryCta": "Yatırım Modelini Keşfet",
+      "imageAlt": "Gün batımında seçilmiş üzüm bağları ve dağ manzarası",
+      "features": {
+        "selectedLand": "Seçilmiş Arazi",
+        "managedPortfolio": "Yönetilen Portföy",
+        "longTermValue": "Uzun Vadeli Değer"
+      }
+    },
+    "portfolioApproach": {
+      "eyebrow": "Portföy Yaklaşımımız",
+      "title": "Her arazi <gold>yatırım değildir.</gold>",
+      "lead": "Bağ yatırımı yalnızca arazi satın almak değildir. Uzun vadeli değer üretebilecek toprağı doğru analiz etmek gerekir.",
+      "paragraph1": "Portföyümüze dahil edilen her bağ; iklim, rakım, toprak yapısı, su erişimi ve üretim potansiyeli açısından detaylı olarak değerlendirilir.",
+      "paragraph2": "Amacımız yalnızca bugün verimli olan arazileri değil, gelecek nesiller boyunca değer üretme kapasitesine sahip bağları seçmek ve profesyonel olarak yönetmektir.",
+      "imageAlt": "Dağ manzarası ve seçilmiş bağ portföyü"
+    },
+    "activePortfolio": {
+      "eyebrow": "Aktif Portföyümüz",
+      "title": "Konya Bozkırı Bağı",
+      "description": "Konya'nın yüksek rakımlı ve mineral bakımından zengin topraklarında yer alan bağımız, sürdürülebilir üzüm üretimi ve uzun vadeli değer artışı hedefiyle seçilmiştir. Yüksek güneşlenme süresi ve profesyonel bağ yönetimi sayesinde güçlü bir yatırım potansiyeli sunmaktadır.",
+      "cta": "Detayları Keşfet",
+      "imageAlt": "Konya Bozkırı Bağı",
+      "stats": {
+        "altitude": {
+          "value": "1.250 m",
+          "label": "Rakım"
+        },
+        "area": {
+          "value": "50 Dönüm",
+          "label": "Üretim Alanı"
+        },
+        "grape": {
+          "value": "Sultaniye",
+          "label": "Üzüm Çeşidi"
+        },
+        "year": {
+          "value": "2022",
+          "label": "Üretim Yılı"
+        }
+      }
+    },
+    "whyKonya": {
+      "eyebrow": "Neden Konya?",
+      "title": "Yüksek rakım, güçlü güneşlenme ve <gold>mineral zengini toprak.</gold>",
+      "description": "Konya Bozkırı, bağ yatırımı ve sürdürülebilir üzüm üretimi için iklim, rakım ve toprak yapısı açısından güçlü bir potansiyel sunar. Bu özellikler, bağımızın hem üretim kalitesini hem de uzun vadeli yatırım değerini destekler.",
+      "imageAlt": "Konya bozkırı ve tarihi şehir silüeti",
+      "altitude": {
+        "title": "Yüksek Rakım",
+        "description": "1.200 metre üzeri rakım, serin geceler ve dengeli olgunlaşma süreciyle üzüm karakterini güçlendirir."
+      },
+      "sunshine": {
+        "title": "Uzun Güneşlenme",
+        "description": "Günlük uzun güneşlenme süresi, Sultaniye üzümlerinde yüksek şeker dengesi ve aromatik yapı oluşturur."
+      },
+      "soil": {
+        "title": "Mineral Zengini Toprak",
+        "description": "Kireçtaşı ve mineral bakımından zengin toprak yapısı, bağın verimliliğini ve üretim kalitesini artırır."
+      }
+    },
+    "story": {
+      "eyebrow": "Bağın Hikayesi",
+      "title": "Bu toprak bir miras, bu bağ geleceğe bir yatırımdır.",
+      "paragraph1": "Konya Bozkırı Bağı, yalnızca bugünün üretim kapasitesi için değil, gelecek nesiller boyunca değer üretebilecek bir tarımsal varlık olarak seçildi.",
+      "paragraph2": "Yüksek rakım, mineral bakımından zengin toprak yapısı ve uzun güneşlenme süresi sayesinde bağımız sürdürülebilir üzüm üretimi ve uzun vadeli değer artışı potansiyeli taşımaktadır.",
+      "paragraph3": "Profesyonel yönetim modelimizle üretim süreçlerini takip ediyor, bağımızı yatırımcılarımız adına koruyor ve geliştiriyoruz.",
+      "imageAlt": "Hasat edilen üzüm salkımları ve bağ çalışanları",
+      "values": {
+        "sustainable": "Sürdürülebilir Üretim",
+        "management": "Profesyonel Yönetim",
+        "longTerm": "Uzun Vadeli Değer"
+      }
+    },
+    "gallery": {
+      "eyebrow": "Bağımızdan Kareler",
+      "title": "Konya Bozkırı Bağı’nı Yakından İnceleyin",
+      "description": "Üretim alanlarımız, hasat süreçlerimiz, toprak yapımız ve bağ yaşamımızdan seçilmiş kareler.",
+      "close": "Galeriyi kapat",
+      "landscape": {
+        "imageAlt": "Konya Bozkırı Bağı’nda güneş ışığıyla aydınlanan üzüm sıraları"
+      },
+      "grapes": {
+        "imageAlt": "Bağ yaprakları arasında olgunlaşan Sultaniye üzüm salkımları"
+      },
+      "estate": {
+        "imageAlt": "Konya Bozkırı’nda dağ manzaralı bağ arazisi"
+      },
+      "harvest": {
+        "imageAlt": "Hasat edilen üzümlerin ahşap kasalarda toplanması"
+      },
+      "sunset": {
+        "imageAlt": "Gün batımında uzanan üzüm bağı sıraları"
+      },
+      "soil": {
+        "imageAlt": "Mineral bakımından zengin bağ toprağı"
+      }
+    },
+    "cta": {
+      "eyebrow": "Portföyümüz Sürekli Genişliyor",
+      "title": "Seçilmiş bağ fırsatlarını <gold>birlikte değerlendirelim.</gold>",
+      "description": "Her arazi, uzun vadeli değer üretme potansiyeline göre analiz edilir. Portföyümüzdeki mevcut bağlar ve yeni yatırım fırsatları hakkında bilgi almak için uzmanlarımızla görüşün.",
+      "primaryCta": "Uzmanlarımızla Görüşün",
+      "secondaryCta": "Bağ Yatırımını Keşfet",
+      "imageAlt": "Gün batımında geniş bağ portföyü manzarası"
+    }
+  },
+  "investmentModel": {
+    "hero": {
+      "eyebrow": "Yatırım Modeli",
+      "titleLine1": "Toprağı Değere",
+      "titleLine2": "Dönüştüren",
+      "titleLine3": "Sistem.",
+      "description": "Her yatırım, veri odaklı analiz ve profesyonel yönetim süreciyle hayata geçirilir.",
+      "cta": "Modelimizi Keşfedin",
+      "imageAlt": "Bağ yatırım modeli için profesyonel analiz masası"
+    },
+    "steps": {
+      "eyebrow": "4 Adımlı Yatırım Modelimiz",
+      "seoTitle": "Bağ yatırım modeli ve profesyonel tarımsal varlık yönetimi süreci",
+      "analysis": {
+        "title": "Arazi Analizi",
+        "description": "İklim, rakım, toprak yapısı, su erişimi ve üretim potansiyeli çok boyutlu analizlerle değerlendirilir.",
+        "imageAlt": "Bağ yatırımı için arazi ve iklim analizi"
+      },
+      "portfolio": {
+        "title": "Portföye Dahil Etme",
+        "description": "Uzun vadeli değer üretme potansiyeli taşıyan uygun araziler seçilir ve yatırım portföyüne dahil edilir.",
+        "imageAlt": "Portföye dahil edilen seçilmiş bağ arazisi"
+      },
+      "management": {
+        "title": "Profesyonel Yönetim",
+        "description": "Dikim, bakım, sulama, hasat ve operasyon süreçleri uzman ekipler tarafından profesyonel şekilde yönetilir.",
+        "imageAlt": "Profesyonel bağ yönetimi ve saha kontrolü"
+      },
+      "value": {
+        "title": "Uzun Vadeli Değer",
+        "description": "Üretim geliri, arazi değer artışı ve sürdürülebilir yönetim modeli birlikte yatırım değerini destekler.",
+        "imageAlt": "Hasat edilen üzüm ve uzun vadeli değer üretimi"
+      }
+    },
+    "whyModelWorks": {
+      "eyebrow": "Neden Bu Model Çalışıyor?",
+      "seoTitle": "Bağ yatırım modeli neden çalışır ve uzun vadeli değer nasıl üretir?",
+      "dataSelection": {
+        "title": "Veri Odaklı Seçim",
+        "description": "Doğru araziyi; iklim, rakım, toprak yapısı ve üretim potansiyeli analizleriyle belirleriz."
+      },
+      "professionalManagement": {
+        "title": "Profesyonel Yönetim",
+        "description": "Bağ yatırımı, uzman ekip tarafından dikimden hasada kadar operasyonel olarak yönetilir."
+      },
+      "transparentReporting": {
+        "title": "Şeffaf Raporlama",
+        "description": "Üretim, bakım ve finansal performans süreçleri düzenli raporlarla yatırımcılarla paylaşılır."
+      },
+      "longTermGrowth": {
+        "title": "Uzun Vadeli Değer Artışı",
+        "description": "Toprak, üretim ve marka değeri birlikte yönetilerek sürdürülebilir yatırım değeri hedeflenir."
+      }
+    }
   }
 }
