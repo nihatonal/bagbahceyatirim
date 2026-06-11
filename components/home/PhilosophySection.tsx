@@ -33,7 +33,7 @@ export default function PhilosophySection() {
               {t("eyebrow")}
             </p>
 
-            <h2 className="font-display text-3xl leading-tight tracking-[-0.03em] text-brand-charcoal md:text-4xl lg:text-5xl">
+            <h2 className="font-display w-[250px] md:w-full mx-auto text-3xl leading-tight tracking-[-0.03em] text-brand-charcoal md:text-4xl lg:text-5xl">
               {t.rich("title", {
                 gold: (chunks) => (
                   <span className="text-brand-bronze">{chunks}</span>

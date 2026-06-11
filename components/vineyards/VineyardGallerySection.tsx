@@ -66,8 +66,8 @@ const galleryImages = [
     className: "lg:col-span-2 lg:row-span-1",
   },
   {
-    key: "soil",
-    src: "/images/vineyards/gallery-soil.webp",
+    key: "salkim",
+    src: "/images/vineyards/gallery-salkim.webp",
     className: "lg:col-span-1 lg:row-span-1",
   },
 ] as const;
@@ -189,7 +189,7 @@ export default function VineyardGallerySection() {
             >
               <Image
                 src={image.src}
-                alt={t(`${image.key}.imageAlt`)}
+                alt={image.key}
                 fill
                 sizes="33vw"
                 className="object-cover transition duration-700 group-hover:scale-105"
@@ -210,7 +210,7 @@ export default function VineyardGallerySection() {
             >
               <Image
                 src={image.src}
-                alt={t(`${image.key}.imageAlt`)}
+                alt={image.key}
                 fill
                 sizes="82vw"
                 className="object-cover"

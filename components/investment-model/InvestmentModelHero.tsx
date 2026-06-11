@@ -20,8 +20,8 @@ export default function VineyardInvestmentHero() {
   return (
     <PageHero
       eyebrow={t("eyebrow")}
-      desktopImage="/images/vineyard-investment/hero-desktop.webp"
-      mobileImage="/images/vineyard-investment/hero-mobile.webp"
+      desktopImage="/images/investment-model/hero-desktop.webp"
+      mobileImage="/images/investment-model/hero-mobile.webp"
       mobileObjectPosition="object-[62%_center]"
       imageAlt={t("imageAlt")}
       titleLines={[

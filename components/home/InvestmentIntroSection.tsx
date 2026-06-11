@@ -52,7 +52,7 @@ export default function InvestmentIntroSection() {
           <div className="absolute inset-x-0 top-0 h-20 bg-gradient-to-b from-brand-ivory to-transparent lg:hidden" />
         </div>
 
-        <div className="px-6 pb-14 lg:hidden">
+        <div className="px-6 py-14 lg:hidden">
           <FadeUp delay={0.12}>
             <p className="text-base leading-8 text-brand-charcoal/72">
               {t("description")}

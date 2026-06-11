@@ -70,13 +70,14 @@ export default function HomeHero() {
       </div>
 
       {/* Desktop Left Overlay */}
-      <div className="absolute inset-0 hidden lg:block bg-[linear-gradient(90deg,rgba(3,8,5,0.92)_0%,rgba(3,8,5,0.82)_22%,rgba(3,8,5,0.48)_46%,rgba(3,8,5,0.08)_72%,rgba(3,8,5,0)_100%)]" />
+      <div className="absolute inset-0 lg:block bg-[linear-gradient(90deg,rgba(3,8,5,0.92)_0%,rgba(3,8,5,0.82)_22%,rgba(3,8,5,0.48)_46%,rgba(3,8,5,0.08)_72%,rgba(3,8,5,0)_100%)]" />
 
       {/* Bottom Depth */}
       <div className="absolute inset-0 bg-[linear-gradient(180deg,rgba(3,8,5,0)_0%,rgba(3,8,5,0)_85%,rgba(3,8,5,0.22)_100%)]" />
 
       {/* Sun Glow */}
       <div className="pointer-events-none absolute inset-0 hidden lg:block bg-[radial-gradient(circle_at_88%_14%,rgba(230,196,125,0.22),transparent_28%)]" />
+      
       {/* Content */}
       <div className="relative z-10 mx-auto flex h-full max-w-[1440px] items-center px-6 pt-24 lg:px-14 lg:pt-28">
         <div className="max-w-[720px] border-l border-brand-gold/70 pl-6 lg:pl-12">

@@ -27,6 +27,9 @@ import VineyardsCtaSection from "@/components/vineyards/VineyardsCtaSection";
 import InvestmentModelHero from "@/components/investment-model/InvestmentModelHero";
 import InvestmentStepsSection from "@/components/investment-model/InvestmentStepsSection";
 import WhyModelWorksSection from "@/components/investment-model/WhyModelWorksSection";
+import TransparentManagementSection from "@/components/investment-model/TransparentManagementSection";
+import AnnualCycleSection from "@/components/investment-model/AnnualCycleSection";
+import InvestmentModelCtaSection from "@/public/images/investment-model/InvestmentModelCtaSection";
 
 type PageProps = {
   params: Promise<{
@@ -147,6 +150,10 @@ export default async function LocalizedSlugPage({ params }: PageProps) {
         <InvestmentModelHero />
         <InvestmentStepsSection />
         <WhyModelWorksSection />
+        <RiskManagementSection />
+        <TransparentManagementSection />
+        <AnnualCycleSection/>
+        <InvestmentModelCtaSection/>
       </main>
     );
   }

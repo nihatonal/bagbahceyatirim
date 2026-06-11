@@ -9,7 +9,6 @@
     "cta": "Contact Us",
     "menu": "Open menu"
   },
-
   "footer": {
     "description": "We create sustainable value through productive agricultural land, providing our investors with a reliable and long-term investment opportunity.",
     "pages": {
@@ -155,21 +154,21 @@
         "category": "Vineyard Investment",
         "title": "Is Vineyard Investment Profitable?",
         "date": "May 15, 2024",
-        "image": "/images/journal/bag-yatirimi-karli-mi.png",
+        "image": "/images/journal/bag-yatirimi-karli-mi.webp",
         "imageAlt": "Grape clusters ripening in a vineyard"
       },
       "setupCost": {
         "category": "Viticulture",
         "title": "Vineyard Setup Cost in 2024",
         "date": "May 02, 2024",
-        "image": "/images/journal/uzum-bagi-kurulum-maliyeti.png",
+        "image": "/images/journal/uzum-bagi-kurulum-maliyeti.webp",
         "imageAlt": "A vineyard at sunset"
       },
       "landVsVineyard": {
         "category": "Agricultural Investment",
         "title": "Agricultural Land or Vineyard?",
         "date": "May 01, 2024",
-        "image": "/images/journal/tarim-arazisi-mi-bag-mi.png",
+        "image": "/images/journal/tarim-arazisi-mi-bag-mi.webp",
         "imageAlt": "Vine leaves under sunlight"
       }
     },
@@ -243,37 +242,37 @@
       "land": {
         "title": "Land",
         "description": "Selecting the right location and productive soil",
-        "image": "/images/vineyard-investment/value-land.png",
+        "image": "/images/vineyard-investment/value-land.webp",
         "imageAlt": "Vineyard land"
       },
       "planting": {
         "title": "Planting",
         "description": "The vineyard foundation is established with expert care",
-        "image": "/images/vineyard-investment/value-planting.png",
+        "image": "/images/vineyard-investment/value-planting.webp",
         "imageAlt": "A young plant being planted in soil"
       },
       "care": {
         "title": "Care",
         "description": "Professional care strengthens the vineyard",
-        "image": "/images/vineyard-investment/value-care.png",
+        "image": "/images/vineyard-investment/value-care.webp",
         "imageAlt": "Checking vine leaves"
       },
       "production": {
         "title": "Production",
         "description": "Healthy vineyards produce quality crops",
-        "image": "/images/vineyard-investment/value-production.png",
+        "image": "/images/vineyard-investment/value-production.webp",
         "imageAlt": "Ripening grape clusters"
       },
       "harvest": {
         "title": "Harvest",
         "description": "Harvesting is carried out carefully and on time",
-        "image": "/images/vineyard-investment/value-harvest.png",
+        "image": "/images/vineyard-investment/value-harvest.webp",
         "imageAlt": "Grapes collected in a crate"
       },
       "growth": {
         "title": "Value Growth",
         "description": "Land and product value grows over time",
-        "image": "/images/vineyard-investment/value-growth.png",
+        "image": "/images/vineyard-investment/value-growth.webp",
         "imageAlt": "Vineyard at sunset"
       }
     },
@@ -531,6 +530,103 @@
         "title": "Long-Term Value Growth",
         "description": "Land, production and brand value are managed together to support sustainable investment value."
       }
+    },
+    "riskManagement": {
+      "eyebrow": "Risk Management",
+      "seoTitle": "Vineyard investment risk management and professional agricultural asset protection process",
+      "climate": {
+        "title": "Climate Risk",
+        "description": "Climate data is monitored regularly; drought and frost risks are reduced through suitable agricultural techniques."
+      },
+      "operation": {
+        "title": "Operational Risk",
+        "description": "Planting, maintenance, irrigation and harvest processes are managed according to a standardized operation plan."
+      },
+      "production": {
+        "title": "Production Risk",
+        "description": "Soil, plant health and productivity are tracked through regular field inspections."
+      },
+      "market": {
+        "title": "Market Risk",
+        "description": "Product value, sales channels and pricing strategies are planned with market analysis."
+      },
+      "financial": {
+        "title": "Financial Risk",
+        "description": "Asset protection, reporting and financial planning processes are carried out transparently."
+      }
+    },
+    "transparentManagement": {
+      "eyebrow": "Transparent Management",
+      "title": "Investors Can Track Every Stage.",
+      "description": "Through regular reporting and field updates, the vineyard investment process is shared transparently with our investors.",
+      "imageAlt": "Vineyard investment management performance dashboard and reporting screen",
+      "monthlyReports": {
+        "title": "Monthly Reports",
+        "description": "Production, maintenance and financial performance are shared through regular reports."
+      },
+      "fieldUpdates": {
+        "title": "Field Updates",
+        "description": "Vineyard progress reports are supported with photo and video updates."
+      },
+      "productionData": {
+        "title": "Production Data",
+        "description": "Yield, quality and harvest performance are monitored."
+      },
+      "financialTransparency": {
+        "title": "Financial Transparency",
+        "description": "Income, expenses and return details are reported clearly."
+      }
+    },
+    "annualCycle": {
+      "eyebrow": "Production Cycle",
+      "title": "The Vineyard Value Creation Process",
+      "description": "Professional vineyard management progresses through planned operations throughout the year; production, quality and harvest are transformed into economic value.",
+      "steps": {
+        "january": {
+          "month": "January",
+          "title": "Pruning",
+          "description": "Seasonal planning is carried out and the vineyard is prepared for efficient production.",
+          "imageAlt": "Winter vineyard pruning and seasonal planning"
+        },
+        "march": {
+          "month": "March",
+          "title": "Growth Management",
+          "description": "Shoot development, soil care and early yield controls are monitored.",
+          "imageAlt": "Spring vine growth and leaf control"
+        },
+        "june": {
+          "month": "June",
+          "title": "Yield Control",
+          "description": "Cluster development, plant health and quality potential are regularly tracked.",
+          "imageAlt": "Summer grape cluster development and yield control"
+        },
+        "september": {
+          "month": "September",
+          "title": "Harvest Preparation",
+          "description": "Ripeness level, sugar balance and quality criteria are evaluated.",
+          "imageAlt": "Vineyard harvest preparation at sunset"
+        },
+        "harvest": {
+          "month": "Harvest",
+          "title": "Crop Collection",
+          "description": "Selective harvest is carried out and grapes are classified according to quality.",
+          "imageAlt": "Harvested grapes collected in wooden crates"
+        },
+        "result": {
+          "month": "Outcome",
+          "title": "Value Creation",
+          "description": "Production income and long-term land value together contribute to the investment outcome.",
+          "imageAlt": "Production and long-term value growth in vineyard investment"
+        }
+      }
+    },
+    "cta": {
+      "eyebrow": "YATIRIMINIZI PLANLAYALIM",
+      "title": "Değer Üreten Bir Sistemin Parçası Olun.",
+      "description": "Uzman ekibimizle görüşerek yatırım hedeflerinize uygun bağ yatırım modelini birlikte değerlendirelim.",
+      "whatsappCta": "WhatsApp'tan Görüşelim",
+      "contactCta": "Detaylı Bilgi Alın",
+      "imageAlt": "Gün batımında bağ manzarası"
     }
   }
 }

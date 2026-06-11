@@ -435,6 +435,8 @@
       "title": "Konya Bozkırı Bağı’nı Yakından İnceleyin",
       "description": "Üretim alanlarımız, hasat süreçlerimiz, toprak yapımız ve bağ yaşamımızdan seçilmiş kareler.",
       "close": "Galeriyi kapat",
+      "previous": "Önceki",
+      "next": "Sonraki",
       "landscape": {
         "imageAlt": "Konya Bozkırı Bağı’nda güneş ışığıyla aydınlanan üzüm sıraları"
       },
@@ -516,6 +518,103 @@
         "title": "Uzun Vadeli Değer Artışı",
         "description": "Toprak, üretim ve marka değeri birlikte yönetilerek sürdürülebilir yatırım değeri hedeflenir."
       }
+    },
+    "riskManagement": {
+      "eyebrow": "Risk Yönetimi",
+      "seoTitle": "Bağ yatırımı risk yönetimi ve profesyonel tarımsal varlık koruma süreci",
+      "climate": {
+        "title": "İklim Riski",
+        "description": "İklim verileri düzenli izlenir; uygun tarım teknikleriyle kuraklık ve don riski azaltılır."
+      },
+      "operation": {
+        "title": "Operasyon Riski",
+        "description": "Dikim, bakım, sulama ve hasat süreçleri standart operasyon planına göre yönetilir."
+      },
+      "production": {
+        "title": "Üretim Riski",
+        "description": "Toprak, bitki sağlığı ve verimlilik düzenli saha kontrolleriyle takip edilir."
+      },
+      "market": {
+        "title": "Pazar Riski",
+        "description": "Ürün değeri, satış kanalları ve fiyatlama stratejileri piyasa analizleriyle planlanır."
+      },
+      "financial": {
+        "title": "Finansal Risk",
+        "description": "Varlık koruma, raporlama ve finansal planlama süreçleri şeffaf şekilde yürütülür."
+      }
+    },
+    "transparentManagement": {
+      "eyebrow": "Şeffaf Yönetim",
+      "title": "Yatırımcılarımız Her Aşamayı Takip Edebilir.",
+      "description": "Düzenli raporlama ve saha güncellemeleriyle bağ yatırım süreci yatırımcılarımızla şeffaf şekilde paylaşılır.",
+      "imageAlt": "Bağ yatırım yönetimi performans paneli ve raporlama ekranı",
+      "monthlyReports": {
+        "title": "Aylık Raporlar",
+        "description": "Üretim, bakım ve finansal performans düzenli raporlarla paylaşılır."
+      },
+      "fieldUpdates": {
+        "title": "Saha Güncellemeleri",
+        "description": "Fotoğraf ve video destekli bağ gelişim raporları sunulur."
+      },
+      "productionData": {
+        "title": "Üretim Verileri",
+        "description": "Verim, kalite ve hasat performansı takip edilir."
+      },
+      "financialTransparency": {
+        "title": "Finansal Şeffaflık",
+        "description": "Gelir, gider ve getiri bilgileri anlaşılır şekilde raporlanır."
+      }
+    },
+    "annualCycle": {
+      "eyebrow": "Üretim Döngüsü",
+      "title": "Bağın Değer Üretim Süreci",
+      "description": "Profesyonel bağ yönetimi yıl boyunca planlı operasyonlarla ilerler; üretim, kalite ve hasat süreci ekonomik değere dönüşür.",
+      "steps": {
+        "january": {
+          "month": "Ocak",
+          "title": "Budama",
+          "description": "Sezon planlaması yapılır ve bağ verimli üretim dönemine hazırlanır.",
+          "imageAlt": "Kış döneminde bağ budama ve sezon planlaması"
+        },
+        "march": {
+          "month": "Mart",
+          "title": "Gelişim Yönetimi",
+          "description": "Sürgün gelişimi, toprak bakımı ve ilk verim kontrolleri takip edilir.",
+          "imageAlt": "İlkbaharda bağ sürgün gelişimi ve yaprak kontrolü"
+        },
+        "june": {
+          "month": "Haziran",
+          "title": "Verim Kontrolü",
+          "description": "Salkım gelişimi, bitki sağlığı ve kalite potansiyeli düzenli olarak izlenir.",
+          "imageAlt": "Yaz döneminde üzüm salkımı gelişimi ve verim kontrolü"
+        },
+        "september": {
+          "month": "Eylül",
+          "title": "Hasat Hazırlığı",
+          "description": "Olgunluk seviyesi, şeker dengesi ve kalite kriterleri değerlendirilir.",
+          "imageAlt": "Gün batımında hasat hazırlığı yapılan üzüm bağı"
+        },
+        "harvest": {
+          "month": "Hasat",
+          "title": "Ürün Toplama",
+          "description": "Seçici hasat yapılır ve ürün kalite sınıflandırmasına göre ayrıştırılır.",
+          "imageAlt": "Hasat edilen üzümlerin ahşap kasalarda toplanması"
+        },
+        "result": {
+          "month": "Sonuç",
+          "title": "Değer Üretimi",
+          "description": "Üretim geliri ve uzun vadeli arazi değeri birlikte yatırım sonucuna katkı sağlar.",
+          "imageAlt": "Bağ yatırımında üretim ve uzun vadeli değer artışı"
+        }
+      }
+    },
+    "cta": {
+      "eyebrow": "YATIRIMINIZI PLANLAYALIM",
+      "title": "Değer Üreten Bir Sistemin Parçası Olun.",
+      "description": "Uzman ekibimizle görüşerek yatırım hedeflerinize uygun bağ yatırım modelini birlikte değerlendirelim.",
+      "whatsappCta": "WhatsApp'tan Görüşelim",
+      "contactCta": "Detaylı Bilgi Alın",
+      "imageAlt": "Gün batımında bağ manzarası"
     }
   }
 }

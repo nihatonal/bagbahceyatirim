@@ -14,6 +14,7 @@ import {
   type RouteKey,
 } from "@/lib/localized-path";
 import { locales, type Locale } from "@/i18n/routing";
+import Image from "next/image";
 
 const pageLinks: {
   key: string;
@@ -53,17 +54,17 @@ export default function Footer() {
           <div>
             <Link
               href={getLocalizedRoute(locale)}
-              className="inline-flex items-center gap-3"
+              className="inline-flex items-center gap-1"
             >
               <div className="font-display text-4xl leading-none text-brand-gold">
-                BB
+               <Image src="/images/logo.webp" alt="logo"  width={34} height={34}/>
               </div>
 
               <div className="leading-none">
                 <div className="font-display text-xl tracking-[0.08em] text-brand-ivory">
                   BAĞ BAHÇE
                 </div>
-                <div className="mt-1 text-[10px] tracking-[0.35em] text-brand-gold">
+                <div className="font-bold font-display text-[10px] tracking-[0.35em] text-brand-gold">
                   YATIRIM
                 </div>
               </div>
