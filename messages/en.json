@@ -628,5 +628,63 @@
       "contactCta": "Detaylı Bilgi Alın",
       "imageAlt": "Gün batımında bağ manzarası"
     }
+  },
+  "about": {
+    "hero": {
+      "eyebrow": "About Us",
+      "titleLine1": "We Believe in",
+      "titleLine2": "the Power of Land.",
+      "description": "We believe that long-term value is created by selecting the right lands and managing them professionally.",
+      "imageAlt": "Vineyard estate and modern investment structure at sunset"
+    },
+    "whyWeExist": {
+      "eyebrow": "Why We Exist",
+      "title": "We exist to carry nature’s potential <gold>into the future.</gold>",
+      "paragraph1": "At Bağ Bahçe Yatırım, we believe agricultural production is not only a source of short-term income, but a real asset that can create long-term value when managed professionally.",
+      "paragraph2": "Our purpose is to develop vineyard lands whose climate, altitude, soil structure and production potential have been carefully analyzed through a professional agricultural management approach.",
+      "paragraph3": "By sharing the same vision with our investors, we offer a trusted investment model built on sustainable production, transparent reporting and long-term land appreciation.",
+      "imageAlt": "Professional vineyard land extending toward mountains at sunset"
+    },
+    "founderValues": {
+      "eyebrow": "Message from Our Founder",
+      "quote": "We do not see land as a commodity. When managed properly, land creates lasting value that can be carried across generations.",
+      "description": "At Bağ Bahçe Yatırım, our purpose is to protect and develop carefully selected vineyard lands while creating long-term value together with our investors.",
+      "name": "Murat Demir",
+      "role": "Founder & CEO",
+      "imageAlt": "Black and white desk photo of the founder working on investment notes",
+      "valuesEyebrow": "Our Values",
+      "values": {
+        "longTermVision": {
+          "title": "Long-Term Vision",
+          "description": "Instead of short-term gains, we focus on agricultural value creation that can continue for generations."
+        },
+        "transparency": {
+          "title": "Transparency",
+          "description": "We openly share production, management and performance processes with our investors."
+        },
+        "sustainability": {
+          "title": "Sustainability",
+          "description": "We adopt methods that protect the soil, use natural resources efficiently and support production quality."
+        },
+        "disciplinedManagement": {
+          "title": "Disciplined Management",
+          "description": "Through data-driven analysis and professional operations, we aim to reduce risks and increase value."
+        }
+      }
+    },
+    "expertiseBridge": {
+      "eyebrow": "Agricultural Expertise & Investment Discipline",
+      "title": "We combine agricultural expertise with <gold>institutional investment discipline.</gold>",
+      "description1": "At Bağ Bahçe Yatırım, we bring together hands-on vineyard management experience, land stewardship and agricultural production expertise with a data-driven investment approach.",
+      "description2": "Every vineyard is evaluated based on climate, altitude, soil composition and production potential. Every investment decision is guided by a long-term value creation strategy.",
+      "imageAlt": "Professional vineyard management and agricultural investment landscape"
+    },
+    "futureVision": {
+      "eyebrow": "Our Vision for the Future",
+      "title": "Building <gold>Tomorrow’s Value</gold> on Today’s Land.",
+      "paragraph1": "We believe the future of agriculture will be shaped by data-driven management, sustainable farming practices and professional land stewardship.",
+      "paragraph2": "Our purpose is not only to manage today's production, but to cultivate productive, resilient and sustainable vineyard assets that create value for future generations.",
+      "paragraph3": "Together with our investors, we aim to generate long-term growth, recurring agricultural income and enduring land appreciation through disciplined vineyard investment and management."
+    }
   }
 }

@@ -19,7 +19,6 @@ import RiskManagementSection from "@/components/vineyard-investment/RiskManageme
 import FaqCtaSection from "@/components/vineyard-investment/FaqCtaSection";
 import VineyardsHero from "@/components/vineyards/VineyardsHero";
 import PortfolioApproachSection from "@/components/vineyards/PortfolioApproachSection";
-//import ActivePortfolioSection from "@/components/vineyards/ActivePortfolioSection";
 import WhyKonyaSection from "@/components/vineyards/WhyKonyaSection";
 import VineyardStorySection from "@/components/vineyards/VineyardStorySection";
 import VineyardGallerySection from "@/components/vineyards/VineyardGallerySection";
@@ -29,7 +28,13 @@ import InvestmentStepsSection from "@/components/investment-model/InvestmentStep
 import WhyModelWorksSection from "@/components/investment-model/WhyModelWorksSection";
 import TransparentManagementSection from "@/components/investment-model/TransparentManagementSection";
 import AnnualCycleSection from "@/components/investment-model/AnnualCycleSection";
-import InvestmentModelCtaSection from "@/public/images/investment-model/InvestmentModelCtaSection";
+
+import AboutHero from "@/components/about/AboutHero";
+import WhyWeExistSection from "@/components/about/WhyWeExistSection";
+import FounderValuesSection from "@/components/about/FounderValuesSection";
+import ExpertiseBridgeSection from "@/components/about/ExpertiseBridgeSection";
+import FutureVisionSection from "@/components/about/FutureVisionSection";
+import InvestmentModelCtaSection from "@/components/investment-model/InvestmentModelCtaSection";
 
 type PageProps = {
   params: Promise<{
@@ -152,8 +157,20 @@ export default async function LocalizedSlugPage({ params }: PageProps) {
         <WhyModelWorksSection />
         <RiskManagementSection />
         <TransparentManagementSection />
-        <AnnualCycleSection/>
-        <InvestmentModelCtaSection/>
+        <AnnualCycleSection />
+        <InvestmentModelCtaSection />
+      </main>
+    );
+  }
+
+  if (routeKey === "about") {
+    return (
+      <main>
+        <AboutHero />
+        <WhyWeExistSection />
+        <FounderValuesSection />
+        <ExpertiseBridgeSection />
+        <FutureVisionSection />
       </main>
     );
   }

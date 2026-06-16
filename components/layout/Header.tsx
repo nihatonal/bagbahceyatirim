@@ -91,7 +91,13 @@ export default function Header() {
                 isScrolled || isMenuOpen ? "text-3xl" : "text-4xl",
               )}
             >
-              <Image src="/images/logo.webp" alt="logo"  width={34} height={34}/>
+              <Image
+                src="/images/logo.webp"
+                alt="logo"
+                width={34}
+                height={34}
+                className="w-full h-auto"
+              />
             </div>
 
             <div className="leading-none">

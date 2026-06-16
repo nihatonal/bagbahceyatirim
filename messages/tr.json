@@ -616,5 +616,63 @@
       "contactCta": "Detaylı Bilgi Alın",
       "imageAlt": "Gün batımında bağ manzarası"
     }
+  },
+  "about": {
+    "hero": {
+      "eyebrow": "Hakkımızda",
+      "titleLine1": "Toprağın Gücüne",
+      "titleLine2": "İnanıyoruz.",
+      "description": "Uzun vadeli değer üretmenin, doğru toprakları doğru şekilde yönetmekten geçtiğine inanıyoruz.",
+      "imageAlt": "Gün batımında bağ arazisi ve modern yatırım yapısı"
+    },
+    "whyWeExist": {
+      "eyebrow": "Neden Varız?",
+      "title": "Doğanın sunduğu potansiyeli <gold>geleceğe taşımak için varız.</gold>",
+      "paragraph1": "Bağ Bahçe Yatırım olarak, tarımsal üretimin yalnızca kısa vadeli gelir değil, doğru yönetildiğinde uzun vadeli değer üreten gerçek bir varlık olduğuna inanıyoruz.",
+      "paragraph2": "Amacımız; iklim, rakım, toprak yapısı ve üretim potansiyeli dikkatle analiz edilmiş bağ arazilerini profesyonel tarımsal yönetim anlayışıyla geliştirmektir.",
+      "paragraph3": "Yatırımcılarımızla aynı vizyonu paylaşarak; sürdürülebilir üretim, şeffaf raporlama ve uzun vadeli arazi değer artışı üzerine kurulu güvenilir bir yatırım modeli sunuyoruz.",
+      "imageAlt": "Gün batımında dağ manzarasına uzanan profesyonel bağ arazisi"
+    },
+    "founderValues": {
+      "eyebrow": "Kurucumuzdan Mesaj",
+      "quote": "Biz toprağı bir emtia olarak görmüyoruz. Toprak, doğru yönetildiğinde nesiller boyu aktarılabilecek kalıcı değer üretir.",
+      "description": "Bağ Bahçe Yatırım olarak amacımız; doğru seçilmiş bağ arazilerini korumak, geliştirmek ve yatırımcılarımızla birlikte uzun vadeli değer üretmektir.",
+      "name": "Murat Demir",
+      "role": "Kurucu & CEO",
+      "imageAlt": "Kurucunun yatırım notları üzerinde çalıştığı siyah beyaz masa fotoğrafı",
+      "valuesEyebrow": "Değerlerimiz",
+      "values": {
+        "longTermVision": {
+          "title": "Uzun Vadeli Bakış",
+          "description": "Kısa vadeli kazançlar yerine, nesiller boyu sürecek tarımsal değer üretimine odaklanırız."
+        },
+        "transparency": {
+          "title": "Şeffaflık",
+          "description": "Yatırımcılarımızla üretim, yönetim ve performans süreçlerini açık şekilde paylaşırız."
+        },
+        "sustainability": {
+          "title": "Sürdürülebilirlik",
+          "description": "Toprağı koruyan, doğal kaynakları verimli kullanan ve üretim kalitesini destekleyen yöntemleri benimseriz."
+        },
+        "disciplinedManagement": {
+          "title": "Disiplinli Yönetim",
+          "description": "Veri odaklı analiz ve profesyonel operasyon yönetimiyle riskleri azaltır, değeri artırmayı hedefleriz."
+        }
+      }
+    },
+    "expertiseBridge": {
+      "eyebrow": "Tarımsal Uzmanlık & Yatırım Disiplini",
+      "title": "Tarımsal uzmanlığı <gold>kurumsal yatırım disipliniyle</gold> birleştiriyoruz.",
+      "description1": "Bağ Bahçe Yatırım olarak; bağcılık, arazi yönetimi ve tarımsal üretim konusundaki saha deneyimini veri odaklı yatırım yaklaşımıyla bir araya getiriyoruz.",
+      "description2": "Her arazi iklim, rakım, toprak yapısı ve üretim potansiyeli açısından değerlendirilir. Her yatırım kararı ise uzun vadeli değer üretimi hedefiyle şekillendirilir.",
+      "imageAlt": "Profesyonel bağ yönetimi ve tarımsal yatırım anlayışını temsil eden bağ manzarası"
+    },
+    "futureVision": {
+      "eyebrow": "Gelecek Vizyonumuz",
+      "title": "Bugünün Topraklarında, <gold>Yarının Değerini İnşa Ediyoruz.</gold>",
+      "paragraph1": "Tarımsal üretimin geleceğinin; veri odaklı yönetim, sürdürülebilir uygulamalar ve profesyonel arazi yönetimiyle şekilleneceğine inanıyoruz.",
+      "paragraph2": "Amacımız yalnızca bugünün üretimini yönetmek değil; gelecek nesillere değer üreten, verimli ve sürdürülebilir bağ varlıkları bırakmaktır.",
+      "paragraph3": "Yatırımcılarımızla birlikte uzun vadeli büyüme, düzenli üretim geliri ve kalıcı arazi değeri oluşturmayı hedefliyoruz."
+    }
   }
 }
