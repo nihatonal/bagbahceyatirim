@@ -10,6 +10,7 @@ import FadeUp from "@/components/motion/FadeUp";
 import { getLocalizedRoute } from "@/lib/localized-path";
 import { locales, type Locale } from "@/i18n/routing";
 import { cn } from "@/lib/utils";
+import Container from "../ui/Container";
 
 const faqs = [
   "valueTime",
@@ -94,57 +95,58 @@ export default function FaqCtaSection() {
       <div className="absolute inset-0 bg-[linear-gradient(90deg,#030805_0%,rgba(3,8,5,0.92)_34%,rgba(3,8,5,0.68)_58%,rgba(3,8,5,0.42)_100%)]" />
       <div className="absolute inset-0 bg-[radial-gradient(circle_at_78%_38%,rgba(214,177,104,0.24),transparent_34%)]" />
       <div className="absolute inset-0 bg-brand-night/28" />
-      <div className="grid items-start lg:grid-cols-[1.08fr_0.92fr]">
-        <div className="relative px-6 py-16 lg:px-14 lg:py-20">
-          <div className="absolute inset-0 dark-gradient opacity-70" />
+      <Container>
+        <div className="grid items-start lg:grid-cols-[1.08fr_0.92fr]">
+          <div className="relative py-16 lg:py-20">
+            <div className="absolute inset-0 dark-gradient opacity-70" />
 
-          <FadeUp className="relative z-10">
-            <div className="mb-8 flex items-center gap-5">
-              <p className="text-xs font-semibold uppercase tracking-luxury text-brand-gold">
-                {t("eyebrow")}
-              </p>
-              <div className="h-px w-16 bg-brand-gold/50" />
-            </div>
-
-            <div className="grid gap-5 lg:grid-cols-2">
-              <div className="space-y-5">
-                {leftFaqs.map((item) => renderFaq(item))}
+            <FadeUp className="relative z-10">
+              <div className="mb-8 flex items-center gap-5">
+                <p className="text-xs font-semibold uppercase tracking-luxury text-brand-gold">
+                  {t("eyebrow")}
+                </p>
+                <div className="h-px w-16 bg-brand-gold/50" />
               </div>
 
-              <div className="space-y-5">
-                {rightFaqs.map((item) => renderFaq(item))}
+              <div className="grid gap-5 lg:grid-cols-2">
+                <div className="space-y-5">
+                  {leftFaqs.map((item) => renderFaq(item))}
+                </div>
+
+                <div className="space-y-5">
+                  {rightFaqs.map((item) => renderFaq(item))}
+                </div>
               </div>
-            </div>
-          </FadeUp>
-        </div>
+            </FadeUp>
+          </div>
 
-        <div className="px-6 py-16 lg:px-14 lg:py-20">
-          <div className="relative min-h-[420px] overflow-hidden lg:sticky lg:top-28 lg:h-[420px] lg:min-h-0">
-           
-            <div className="relative z-10 flex h-full max-w-lg flex-col justify-center">
-              <h2 className="font-display text-4xl leading-[1.05] tracking-[-0.04em] md:text-5xl">
-                {t.rich("cta.title", {
-                  gold: (chunks) => (
-                    <span className="text-brand-gold">{chunks}</span>
-                  ),
-                })}
-              </h2>
+          <div className="px-6 py-16 lg:px-14 lg:py-20">
+            <div className="relative min-h-[420px] overflow-hidden lg:sticky lg:top-28 lg:h-[420px] lg:min-h-0">
+              <div className="relative z-10 flex h-full max-w-lg flex-col justify-center">
+                <h2 className="font-display text-4xl leading-[1.05] tracking-[-0.04em] md:text-5xl">
+                  {t.rich("cta.title", {
+                    gold: (chunks) => (
+                      <span className="text-brand-gold">{chunks}</span>
+                    ),
+                  })}
+                </h2>
 
-              <p className="mt-5 text-base leading-8 text-brand-ivory/78">
-                {t("cta.description")}
-              </p>
+                <p className="mt-5 text-base leading-8 text-brand-ivory/78">
+                  {t("cta.description")}
+                </p>
 
-              <Link
-                href={getLocalizedRoute(locale, "contact")}
-                className="gold-gradient mt-7 inline-flex w-fit items-center justify-center gap-3 rounded-md px-7 py-4 text-sm font-semibold text-brand-deep shadow-gold transition hover:brightness-110"
-              >
-                {t("cta.button")}
-                <ArrowRight size={18} />
-              </Link>
+                <Link
+                  href={getLocalizedRoute(locale, "contact")}
+                  className="gold-gradient mt-7 inline-flex w-fit items-center justify-center gap-3 rounded-md px-7 py-4 text-sm font-semibold text-brand-deep shadow-gold transition hover:brightness-110"
+                >
+                  {t("cta.button")}
+                  <ArrowRight size={18} />
+                </Link>
+              </div>
             </div>
           </div>
         </div>
-      </div>
+      </Container>
 
       <div className="absolute inset-x-0 bottom-0 h-px bg-brand-gold/25" />
     </section>

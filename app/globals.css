@@ -187,3 +187,13 @@ a {
     transition-duration: 0.001ms !important;
   }
 }
+
+.bleed-right-1440 {
+  width: calc(100% + max(0px, (100vw - 1440px) / 2));
+  margin-right: calc(-1 * max(0px, (100vw - 1440px) / 2));
+}
+
+.bleed-left-1440 {
+  width: calc(100% + max(0px, (100vw - 1440px) / 2));
+  margin-left: calc(-1 * max(0px, (100vw - 1440px) / 2));
+}

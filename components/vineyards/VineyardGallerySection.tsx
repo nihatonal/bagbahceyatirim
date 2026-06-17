@@ -7,6 +7,7 @@ import { useCallback, useEffect, useMemo, useState } from "react";
 
 import FadeUp from "@/components/motion/FadeUp";
 import { cn } from "@/lib/utils";
+import Container from "../ui/Container";
 
 const galleryImages = [
   {
@@ -134,95 +135,96 @@ export default function VineyardGallerySection() {
   return (
     <section className="relative overflow-hidden bg-brand-night text-brand-ivory">
       <div className="absolute inset-0 dark-gradient opacity-60" />
+      <Container>
+        <div className="relative z-10 py-16 lg:py-20">
+          <FadeUp>
+            <div className="mb-10 flex items-end justify-between gap-6">
+              <div className="max-w-3xl">
+                <p className="mb-3 text-xs font-semibold uppercase tracking-luxury text-brand-gold">
+                  {t("eyebrow")}
+                </p>
 
-      <div className="relative z-10 mx-auto max-w-[1440px] px-6 py-16 lg:px-14 lg:py-20">
-        <FadeUp>
-          <div className="mb-10 flex items-end justify-between gap-6">
-            <div className="max-w-3xl">
-              <p className="mb-3 text-xs font-semibold uppercase tracking-luxury text-brand-gold">
-                {t("eyebrow")}
-              </p>
+                <h2 className="font-display text-4xl leading-tight tracking-[-0.035em] md:text-5xl">
+                  {t("title")}
+                </h2>
 
-              <h2 className="font-display text-4xl leading-tight tracking-[-0.035em] md:text-5xl">
-                {t("title")}
-              </h2>
-
-              <p className="mt-4 max-w-2xl text-base leading-8 text-brand-ivory/68">
-                {t("description")}
-              </p>
-            </div>
-
-            {totalPages > 1 && (
-              <div className="hidden items-center gap-3 lg:flex">
-                <button
-                  type="button"
-                  onClick={goToPrevPage}
-                  aria-label={t("previous")}
-                  className="grid size-11 place-items-center rounded-full border border-brand-ivory/30 text-brand-ivory transition hover:border-brand-gold hover:text-brand-gold"
-                >
-                  <ArrowLeft size={18} />
-                </button>
-
-                <button
-                  type="button"
-                  onClick={goToNextPage}
-                  aria-label={t("next")}
-                  className="grid size-11 place-items-center rounded-full border border-brand-ivory/30 text-brand-ivory transition hover:border-brand-gold hover:text-brand-gold"
-                >
-                  <ArrowRight size={18} />
-                </button>
+                <p className="mt-4 max-w-2xl text-base leading-8 text-brand-ivory/68">
+                  {t("description")}
+                </p>
               </div>
-            )}
-          </div>
-        </FadeUp>
 
-        <div className="hidden grid-cols-6 grid-rows-3 gap-4 lg:grid lg:h-[620px]">
-          {visibleImages.map((image, index) => (
-            <button
-              key={`${image.key}-${pageIndex}`}
-              type="button"
-              onClick={() => openLightbox(index)}
-              className={cn(
-                "group relative overflow-hidden rounded-2xl border border-brand-gold/12 bg-brand-ivory/[0.035]",
-                image.className,
+              {totalPages > 1 && (
+                <div className="hidden items-center gap-3 lg:flex">
+                  <button
+                    type="button"
+                    onClick={goToPrevPage}
+                    aria-label={t("previous")}
+                    className="grid size-11 place-items-center rounded-full border border-brand-ivory/30 text-brand-ivory transition hover:border-brand-gold hover:text-brand-gold"
+                  >
+                    <ArrowLeft size={18} />
+                  </button>
+
+                  <button
+                    type="button"
+                    onClick={goToNextPage}
+                    aria-label={t("next")}
+                    className="grid size-11 place-items-center rounded-full border border-brand-ivory/30 text-brand-ivory transition hover:border-brand-gold hover:text-brand-gold"
+                  >
+                    <ArrowRight size={18} />
+                  </button>
+                </div>
               )}
-            >
-              <Image
-                src={image.src}
-                alt={image.key}
-                fill
-                sizes="33vw"
-                className="object-cover transition duration-700 group-hover:scale-105"
-              />
+            </div>
+          </FadeUp>
 
-              <div className="absolute inset-0 bg-brand-night/10 transition group-hover:bg-brand-night/0" />
-            </button>
-          ))}
+          <div className="hidden grid-cols-6 grid-rows-3 gap-4 lg:grid lg:h-[620px]">
+            {visibleImages.map((image, index) => (
+              <button
+                key={`${image.key}-${pageIndex}`}
+                type="button"
+                onClick={() => openLightbox(index)}
+                className={cn(
+                  "group relative overflow-hidden rounded-2xl border border-brand-gold/12 bg-brand-ivory/[0.035]",
+                  image.className,
+                )}
+              >
+                <Image
+                  src={image.src}
+                  alt={image.key}
+                  fill
+                  sizes="33vw"
+                  className="object-cover transition duration-700 group-hover:scale-105"
+                />
+
+                <div className="absolute inset-0 bg-brand-night/10 transition group-hover:bg-brand-night/0" />
+              </button>
+            ))}
+          </div>
+
+          <div className="flex gap-4 overflow-x-auto pb-4 lg:hidden hide-scrollbar">
+            {galleryImages.map((image, index) => (
+              <button
+                key={image.key}
+                type="button"
+                onClick={() => setLightboxIndex(index)}
+                className="relative h-[420px] min-w-[82%] overflow-hidden rounded-2xl border border-brand-gold/12 bg-brand-ivory/[0.035]"
+              >
+                <Image
+                  src={image.src}
+                  alt={image.key}
+                  fill
+                  sizes="82vw"
+                  className="object-cover"
+                />
+
+                <div className="absolute bottom-4 left-4 rounded-full border border-brand-gold/25 bg-brand-night/55 px-4 py-2 text-xs text-brand-ivory/78 backdrop-blur-md">
+                  {index + 1} / {galleryImages.length}
+                </div>
+              </button>
+            ))}
+          </div>
         </div>
-
-        <div className="flex gap-4 overflow-x-auto pb-4 lg:hidden hide-scrollbar">
-          {galleryImages.map((image, index) => (
-            <button
-              key={image.key}
-              type="button"
-              onClick={() => setLightboxIndex(index)}
-              className="relative h-[420px] min-w-[82%] overflow-hidden rounded-2xl border border-brand-gold/12 bg-brand-ivory/[0.035]"
-            >
-              <Image
-                src={image.src}
-                alt={image.key}
-                fill
-                sizes="82vw"
-                className="object-cover"
-              />
-
-              <div className="absolute bottom-4 left-4 rounded-full border border-brand-gold/25 bg-brand-night/55 px-4 py-2 text-xs text-brand-ivory/78 backdrop-blur-md">
-                {index + 1} / {galleryImages.length}
-              </div>
-            </button>
-          ))}
-        </div>
-      </div>
+      </Container>
 
       {lightboxIndex !== null && (
         <div className="fixed inset-0 z-[999] bg-brand-night/96 backdrop-blur-md">
