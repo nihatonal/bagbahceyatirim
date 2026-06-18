@@ -65,7 +65,7 @@ export default function FeaturedVineyardSection() {
                 {t("title")}
               </h2>
 
-              <Stagger className="mt-8 grid grid-cols-2 gap-6 sm:grid-cols-3 lg:grid-cols-5">
+              <Stagger className="mt-8 grid grid-cols-2 gap-0 sm:grid-cols-3 lg:grid-cols-5">
                 {specs.map((item) => {
                   const Icon = item.icon;
 

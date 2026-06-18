@@ -8,7 +8,7 @@ import Container from "../ui/Container";
 const stats = [
   { key: "experience", value: 5 },
   { key: "land", value: 50 },
-  { key: "investors", value: 250 },
+  { key: "investors", value: 25 },
   { key: "projects", value: 15 },
 ] as const;
 
