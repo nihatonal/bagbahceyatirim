@@ -87,16 +87,16 @@ export default function Header() {
           >
             <div
               className={cn(
-                "font-display leading-none text-brand-gold transition-all duration-500",
-                isScrolled || isMenuOpen ? "text-3xl" : "text-4xl",
+                "relative transition-all duration-500",
+                isScrolled || isMenuOpen ? "w-8 h-8" : "w-10 h-10",
               )}
             >
               <Image
                 src="/images/logo.webp"
                 alt="logo"
-                width={34}
-                height={34}
-                className="w-full h-auto"
+                fill
+                sizes="40px"
+                className="object-contain"
               />
             </div>
 
