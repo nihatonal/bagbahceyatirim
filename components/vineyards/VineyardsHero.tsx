@@ -21,6 +21,7 @@ export default function VineyardsHero() {
       desktopImage="/images/vineyards/hero-desktop.webp"
       mobileImage="/images/vineyards/hero-mobile.webp"
       imageAlt={t("imageAlt")}
+      eyebrow={t("eyebrow")}
       titleLines={[
         { text: t("titleLine1") },
         { text: t("titleLine2"), gold: true },
@@ -28,12 +29,12 @@ export default function VineyardsHero() {
       description={t("description")}
       ctas={[
         {
-          label: t("primaryCta"),
-          href: getLocalizedRoute(locale, "contact"),
+          label: t("secondaryCta"),
+          href: getLocalizedRoute(locale, "investmentModel"),
         },
         {
-          label: t("secondaryCta"),
-          href: getLocalizedRoute(locale, "vineyards"),
+          label: t("primaryCta"),
+          href: getLocalizedRoute(locale, "contact"),
           variant: "secondary",
         },
       ]}

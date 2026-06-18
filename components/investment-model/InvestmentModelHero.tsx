@@ -13,7 +13,7 @@ function isLocale(value: string): value is Locale {
 }
 
 export default function VineyardInvestmentHero() {
-  const t = useTranslations("vineyardInvestment.hero");
+  const t = useTranslations("investmentModel.hero");
   const rawLocale = useLocale();
   const locale: Locale = isLocale(rawLocale) ? rawLocale : "tr";
 
@@ -27,23 +27,19 @@ export default function VineyardInvestmentHero() {
       titleLines={[
         { text: t("titleLine1") },
         { text: t("titleLine2"), gold: true },
-        { text: t("titleLine3") },
       ]}
       description={t("description")}
       ctas={[
         {
           label: t("primaryCta"),
-          href: getLocalizedRoute(locale, "contact"),
+          href: getLocalizedRoute(locale, "vineyardInvestment"),
         },
         {
           label: t("secondaryCta"),
-          href: getLocalizedRoute(locale, "vineyards"),
+          href: getLocalizedRoute(locale, "contact"),
           variant: "secondary",
         },
       ]}
-      features={features.map((feature) => ({
-        label: t(`features.${feature}`),
-      }))}
     />
   );
 }

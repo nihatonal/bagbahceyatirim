@@ -188,7 +188,7 @@
       "titleLine3": "Lasting Value.",
       "description": "Vineyard investment is a real asset model that grows with nature’s cycle and preserves value across generations.",
       "primaryCta": "Plan Your Investment",
-      "secondaryCta": "Explore Vineyard Investment",
+      "secondaryCta": "View Vineyards",
       "imageAlt": "Grape clusters and vineyard landscape at sunset",
       "features": {
         "realAsset": "Real Asset",
@@ -360,10 +360,10 @@
   "vineyards": {
     "hero": {
       "eyebrow": "Our Vineyards",
-      "titleLine1": "Selected Land.",
-      "titleLine2": "Lasting Value.",
+      "titleLine1": "Selected Land",
+      "titleLine2": "Lasting Value",
       "description": "Each vineyard is carefully selected and professionally managed according to its potential to create long-term value.",
-      "primaryCta": "Explore Our Vineyards",
+      "primaryCta": "Get Details",
       "secondaryCta": "Explore Investment Model",
       "imageAlt": "Selected vineyards and mountain landscape at sunset",
       "features": {
@@ -484,7 +484,8 @@
       "titleLine2": "Turns Land Into",
       "titleLine3": "Value.",
       "description": "Every investment is brought to life through data-driven analysis and professional management.",
-      "cta": "Explore Our Model",
+      "primaryCta": "Explore Investment",
+      "secondaryCta": "Get Details",
       "imageAlt": "Professional analysis desk for vineyard investment model"
     },
     "steps": {
@@ -633,7 +634,7 @@
     "hero": {
       "eyebrow": "About Us",
       "titleLine1": "We Believe in",
-      "titleLine2": "the Power of Land.",
+      "titleLine2": "the Power of Land",
       "description": "We believe that long-term value is created by selecting the right lands and managing them professionally.",
       "imageAlt": "Vineyard estate and modern investment structure at sunset"
     },
@@ -649,8 +650,8 @@
       "eyebrow": "Message from Our Founder",
       "quote": "We do not see land as a commodity. When managed properly, land creates lasting value that can be carried across generations.",
       "description": "At Bağ Bahçe Yatırım, our purpose is to protect and develop carefully selected vineyard lands while creating long-term value together with our investors.",
-      "name": "Murat Demir",
-      "role": "Founder & CEO",
+      "name": "Veysel Karakus",
+      "role": "Founder",
       "imageAlt": "Black and white desk photo of the founder working on investment notes",
       "valuesEyebrow": "Our Values",
       "values": {
@@ -685,6 +686,159 @@
       "paragraph1": "We believe the future of agriculture will be shaped by data-driven management, sustainable farming practices and professional land stewardship.",
       "paragraph2": "Our purpose is not only to manage today's production, but to cultivate productive, resilient and sustainable vineyard assets that create value for future generations.",
       "paragraph3": "Together with our investors, we aim to generate long-term growth, recurring agricultural income and enduring land appreciation through disciplined vineyard investment and management."
+    },
+    "cta": {
+      "eyebrow": "Let's Create Value Together",
+      "title": "Let's Build Long-Term Value Through Productive Land.",
+      "description": "Our team is ready to evaluate your objectives and investment expectations, helping you identify the vineyard investment model best suited to your goals.",
+      "primaryCta": "Speak With Our Experts",
+      "secondaryCta": "Explore The Investment Model",
+      "imageAlt": "Premium vineyard landscape at sunset"
+    }
+  },
+  "contact": {
+    "hero": {
+      "eyebrow": "Contact Us",
+      "titleLine1": "Let's Plan",
+      "titleLine2": "Your Long-Term",
+      "titleLine3": "Vineyard Investment Together.",
+      "description": "Our experts are ready to evaluate your goals and expectations and help you identify the vineyard investment model best suited to you.",
+      "primaryCta": "Chat on WhatsApp",
+      "secondaryCta": "Send Us a Message",
+      "imageAlt": "Anatolian vineyard landscape at sunset",
+      "features": {
+        "freeConsultation": "Free Initial Consultation",
+        "onlineMeeting": "Online Meeting",
+        "tailoredModel": "Tailored Investment Model"
+      }
+    },
+    "contactMethods": {
+      "eyebrow": "Communication Channels",
+      "title": "Choose the Most Convenient Way to Reach Us.",
+      "description": "Connect with our experts to discuss vineyard investment opportunities, long-term value creation, and our investment approach.",
+
+      "whatsapp": {
+        "title": "WhatsApp",
+        "description": "Send your questions instantly and receive a prompt response from our investment specialists.",
+        "cta": "Chat on WhatsApp"
+      },
+
+      "email": {
+        "title": "Email",
+        "description": "Share your investment inquiries and detailed questions with us via email.",
+        "cta": "Send an Email"
+      },
+
+      "phone": {
+        "title": "Phone",
+        "description": "Speak directly with our team about vineyard investments and long-term investment opportunities.",
+        "cta": "+90 507 807 00 88"
+      },
+
+      "meeting": {
+        "title": "Online Meeting",
+        "description": "Schedule a virtual consultation with our advisors via Google Meet or Zoom.",
+        "cta": "Request a Meeting"
+      }
+    },
+    "faq": {
+      "eyebrow": "Frequently Asked Questions",
+      "imageAlt": "Sunlit vineyard and ripe grape clusters",
+      "office": {
+        "question": "Do you have a physical office?",
+        "answer": "We operate through a field-focused and digital communication model. We stay in touch with our investors through online meetings, phone calls and project site visits."
+      },
+      "faceToFace": {
+        "question": "Can we meet in person?",
+        "answer": "Upon request, we can organize in-person meetings in Istanbul or at suitable project sites. The first evaluation is usually carried out through an online meeting."
+      },
+      "minimumInvestment": {
+        "question": "What is the minimum investment amount?",
+        "answer": "The minimum investment amount may vary depending on the selected vineyard portfolio and investment model. Our experts will share the most suitable model based on your goals."
+      },
+      "investmentDuration": {
+        "question": "How long is the investment period?",
+        "answer": "Vineyard investment is a long-term value creation model. Production income, land appreciation and professional management are evaluated together over time."
+      }
+    },
+    "cta": {
+      "eyebrow": "Let’s Plan Together",
+      "title": "Let’s Evaluate Your <gold>Vineyard Investment Together.</gold>",
+      "description": "During the initial consultation, we understand your goals, expectations and investment approach to evaluate the vineyard investment model best suited to you.",
+      "whatsappCta": "Chat on WhatsApp",
+      "emailCta": "Send Email",
+      "note": "The initial consultation is free. Meetings can be planned online or at suitable project sites.",
+      "imageAlt": "Vineyards and Anatolian mountains at sunset"
+    },
+    "inquiryForm": {
+      "eyebrow": "Investment Inquiry",
+      "title": "Let’s Evaluate Your Investment <gold>Together.</gold>",
+      "description": "Our experts need a few details to prepare the vineyard investment model best suited to you.",
+      "formEyebrow": "Investment Inquiry Form",
+      "imageAlt": "Vineyard landscape at sunset with investment advisory atmosphere",
+      "benefits": {
+        "personalConsulting": {
+          "title": "Personalized Advisory",
+          "description": "An investment model aligned with your goals is evaluated."
+        },
+        "privacy": {
+          "title": "Privacy and Security",
+          "description": "The information you share is handled securely."
+        },
+        "fastReturn": {
+          "title": "Fast Response",
+          "description": "Our team will contact you as soon as possible."
+        }
+      },
+      "whatsappBox": {
+        "text": "You can also contact us instantly through WhatsApp.",
+        "cta": "Chat on WhatsApp"
+      },
+      "fields": {
+        "name": {
+          "label": "Full Name",
+          "placeholder": "Enter your full name"
+        },
+        "phone": {
+          "label": "Phone",
+          "placeholder": "5XX XXX XX XX"
+        },
+        "email": {
+          "label": "Email",
+          "placeholder": "Enter your email address"
+        },
+        "interest": {
+          "label": "Area of Interest",
+          "placeholder": "Select",
+          "options": {
+            "vineyardInvestment": "Vineyard Investment",
+            "activePortfolio": "Active Vineyard Portfolios",
+            "investmentModel": "Investment Model",
+            "general": "General Information"
+          }
+        },
+        "budget": {
+          "label": "Investment Range",
+          "placeholder": "Select",
+          "options": {
+            "range1": "TRY 500K – 1M",
+            "range2": "TRY 1M – 3M",
+            "range3": "TRY 3M – 10M",
+            "range4": "TRY 10M+",
+            "undecided": "Not Decided Yet"
+          }
+        },
+        "message": {
+          "label": "Your Message",
+          "placeholder": "Write your investment goals, questions or any additional details..."
+        }
+      },
+      "privacyNote": "The information you submit is used only to contact you and is not shared with third parties.",
+      "submit": "Create Investment Inquiry",
+      "returnNote": "We will contact you as soon as possible.",
+      "sending": "Sending...",
+      "successMessage": "Your inquiry has been received. We will contact you as soon as possible.",
+      "errorMessage": "The form could not be submitted. Please try again."
     }
   }
 }

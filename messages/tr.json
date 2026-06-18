@@ -178,12 +178,11 @@
   "vineyardInvestment": {
     "hero": {
       "eyebrow": "Bağ Yatırımı",
-      "titleLine1": "Toprağın Gücünü",
-      "titleLine2": "Kalıcı Değere",
-      "titleLine3": "Dönüştürün.",
+      "titleLine1": "Toprağın Gücü",
+      "titleLine2": "Kalıcı Değer",
       "description": "Bağ yatırımı; doğanın döngüsüyle büyüyen, nesiller boyu değerini koruyan gerçek varlık yatırımıdır.",
       "primaryCta": "Yatırımınızı Planlayalım",
-      "secondaryCta": "Bağ Yatırımını Keşfet",
+      "secondaryCta": "Bağlarımızı İncele",
       "imageAlt": "Gün batımında üzüm salkımları ve bağ manzarası",
       "features": {
         "realAsset": "Gerçek Varlık",
@@ -354,10 +353,10 @@
   "vineyards": {
     "hero": {
       "eyebrow": "Bağlarımız",
-      "titleLine1": "Seçilmiş Topraklar.",
-      "titleLine2": "Kalıcı Değer.",
+      "titleLine1": "Seçilmiş Topraklar",
+      "titleLine2": "Uzun Vadeli Değer",
       "description": "Her bağ, uzun vadeli değer üretme potansiyeline göre titizlikle seçilir ve profesyonel olarak yönetilir.",
-      "primaryCta": "Bağlarımızı İnceleyin",
+      "primaryCta": "Detaylı Bilgi Alın",
       "secondaryCta": "Yatırım Modelini Keşfet",
       "imageAlt": "Gün batımında seçilmiş üzüm bağları ve dağ manzarası",
       "features": {
@@ -468,11 +467,13 @@
   "investmentModel": {
     "hero": {
       "eyebrow": "Yatırım Modeli",
-      "titleLine1": "Toprağı Değere",
-      "titleLine2": "Dönüştüren",
+      "titleLine1": "Veri Odaklı",
+      "titleLine2": "Profesyonel Yönetim",
       "titleLine3": "Sistem.",
       "description": "Her yatırım, veri odaklı analiz ve profesyonel yönetim süreciyle hayata geçirilir.",
       "cta": "Modelimizi Keşfedin",
+      "primaryCta": "Yatırım Modelini Keşfet",
+      "secondaryCta": "Detaylı Bilgi Alın",
       "imageAlt": "Bağ yatırım modeli için profesyonel analiz masası"
     },
     "steps": {
@@ -620,8 +621,8 @@
   "about": {
     "hero": {
       "eyebrow": "Hakkımızda",
-      "titleLine1": "Toprağın Gücüne",
-      "titleLine2": "İnanıyoruz.",
+      "titleLine1": "Toprağa İnanıyoruz",
+      "titleLine2": "Değer Üretiyoruz.",
       "description": "Uzun vadeli değer üretmenin, doğru toprakları doğru şekilde yönetmekten geçtiğine inanıyoruz.",
       "imageAlt": "Gün batımında bağ arazisi ve modern yatırım yapısı"
     },
@@ -637,8 +638,8 @@
       "eyebrow": "Kurucumuzdan Mesaj",
       "quote": "Biz toprağı bir emtia olarak görmüyoruz. Toprak, doğru yönetildiğinde nesiller boyu aktarılabilecek kalıcı değer üretir.",
       "description": "Bağ Bahçe Yatırım olarak amacımız; doğru seçilmiş bağ arazilerini korumak, geliştirmek ve yatırımcılarımızla birlikte uzun vadeli değer üretmektir.",
-      "name": "Murat Demir",
-      "role": "Kurucu & CEO",
+      "name": "Veysel Karakuş",
+      "role": "Kurucu",
       "imageAlt": "Kurucunun yatırım notları üzerinde çalıştığı siyah beyaz masa fotoğrafı",
       "valuesEyebrow": "Değerlerimiz",
       "values": {
@@ -673,6 +674,158 @@
       "paragraph1": "Tarımsal üretimin geleceğinin; veri odaklı yönetim, sürdürülebilir uygulamalar ve profesyonel arazi yönetimiyle şekilleneceğine inanıyoruz.",
       "paragraph2": "Amacımız yalnızca bugünün üretimini yönetmek değil; gelecek nesillere değer üreten, verimli ve sürdürülebilir bağ varlıkları bırakmaktır.",
       "paragraph3": "Yatırımcılarımızla birlikte uzun vadeli büyüme, düzenli üretim geliri ve kalıcı arazi değeri oluşturmayı hedefliyoruz."
+    },
+    "cta": {
+      "eyebrow": "Birlikte Değer Üretelim",
+      "title": "Toprağa Dayalı Uzun Vadeli Bir Değeri Birlikte Planlayalım.",
+      "description": "Uzman ekibimiz; hedeflerinizi, beklentilerinizi ve yatırım yaklaşımınızı değerlendirerek size en uygun bağ yatırım modelini oluşturmak için hazır.",
+      "primaryCta": "Uzmanlarımızla Görüşün",
+      "secondaryCta": "Yatırım Modelini İnceleyin",
+      "imageAlt": "Gün batımında üzüm bağları ve Anadolu dağları"
+    }
+  },
+  "contact": {
+    "hero": {
+      "eyebrow": "İletişime Geçin",
+      "titleLine1": "Birlikte Planlayalım",
+      "titleLine2": "Bağ Yatırımınızı",
+      "description": "Uzmanlarımız, hedeflerinizi ve beklentilerinizi değerlendirerek size uygun bağ yatırım modelini oluşturmaya hazır.",
+      "primaryCta": "WhatsApp ile Görüşün",
+      "secondaryCta": "Bize Yazın",
+      "imageAlt": "Gün batımında Anadolu üzüm bağları",
+      "features": {
+        "freeConsultation": "İlk Görüşme Ücretsiz",
+        "onlineMeeting": "Çevrim İçi Görüşme",
+        "tailoredModel": "Kişiselleştirilmiş Yatırım Modeli"
+      }
+    },
+    "contactMethods": {
+      "eyebrow": "İletişim Kanallarımız",
+      "title": "Size En Uygun İletişim Kanalını Seçin.",
+      "description": "Bağ yatırımı, uzun vadeli değer üretimi ve yatırım modeli hakkında uzmanlarımızla iletişime geçebilirsiniz.",
+
+      "whatsapp": {
+        "title": "WhatsApp",
+        "description": "Sorularınızı hızlıca iletin, uzmanlarımız size en kısa sürede dönüş yapsın.",
+        "cta": "WhatsApp ile Görüşün"
+      },
+
+      "email": {
+        "title": "E-posta",
+        "description": "Detaylı yatırım taleplerinizi ve sorularınızı bize e-posta yoluyla iletebilirsiniz.",
+        "cta": "E-posta Gönderin"
+      },
+
+      "phone": {
+        "title": "Telefon",
+        "description": "Bağ yatırımı ve yatırım modeli hakkında uzmanlarımızla doğrudan görüşün.",
+        "cta": "+90 507 807 00 88"
+      },
+
+      "meeting": {
+        "title": "Çevrim İçi Toplantı",
+        "description": "Google Meet veya Zoom üzerinden yatırım danışmanlarımızla çevrim içi görüşme planlayın.",
+        "cta": "Toplantı Talep Edin"
+      }
+    },
+    "faq": {
+      "eyebrow": "Sık Sorulan Sorular",
+      "imageAlt": "Gün ışığında üzüm bağı ve olgun üzüm salkımları",
+      "office": {
+        "question": "Fiziksel ofisiniz var mı?",
+        "answer": "Faaliyetlerimizi saha odaklı ve dijital iletişim modeliyle yürütüyoruz. Yatırımcılarımızla çevrim içi toplantılar, telefon görüşmeleri ve proje sahası ziyaretleri üzerinden iletişim kuruyoruz."
+      },
+      "faceToFace": {
+        "question": "Yüz yüze görüşebilir miyiz?",
+        "answer": "Talep halinde İstanbul’da veya uygun proje sahalarında yüz yüze görüşme organize edebiliriz. İlk değerlendirme çoğunlukla çevrim içi görüşme ile yapılır."
+      },
+      "minimumInvestment": {
+        "question": "Minimum yatırım tutarı nedir?",
+        "answer": "Minimum yatırım tutarı, seçilecek bağ portföyü ve yatırım modeline göre değişebilir. Uzmanlarımız hedeflerinize göre size uygun modeli paylaşır."
+      },
+      "investmentDuration": {
+        "question": "Yatırım süresi ne kadar?",
+        "answer": "Bağ yatırımı uzun vadeli değer üretimine odaklanan bir modeldir. Üretim geliri, arazi değer artışı ve profesyonel yönetim süreci zaman içinde birlikte değerlendirilir."
+      }
+    },
+    "cta": {
+      "eyebrow": "Birlikte Planlayalım",
+      "title": "Bağ Yatırımınızı <gold>Birlikte Değerlendirelim.</gold>",
+      "description": "İlk görüşmede hedeflerinizi, beklentilerinizi ve yatırım yaklaşımınızı anlayarak size en uygun bağ yatırım modelini değerlendirelim.",
+      "whatsappCta": "WhatsApp ile Görüşün",
+      "emailCta": "E-posta Gönderin",
+      "note": "İlk görüşme ücretsizdir. Görüşmeler çevrim içi veya uygun proje sahalarında planlanabilir.",
+      "imageAlt": "Gün batımında üzüm bağları ve Anadolu dağları"
+    },
+    "inquiryForm": {
+      "eyebrow": "Yatırım Talebi",
+      "title": "Yatırımınızı Birlikte <gold>Değerlendirelim.</gold>",
+      "description": "Uzmanlarımız size uygun bağ yatırım modelini hazırlamak için birkaç bilgiye ihtiyaç duyar.",
+      "formEyebrow": "Yatırım Talep Formu",
+      "imageAlt": "Gün batımında bağ arazisi ve yatırım danışmanlığı atmosferi",
+      "benefits": {
+        "personalConsulting": {
+          "title": "Kişiye Özel Danışmanlık",
+          "description": "Hedeflerinize uygun yatırım modeli değerlendirilir."
+        },
+        "privacy": {
+          "title": "Gizlilik ve Güvenlik",
+          "description": "Paylaştığınız bilgiler güvenle korunur."
+        },
+        "fastReturn": {
+          "title": "Hızlı Geri Dönüş",
+          "description": "En kısa sürede sizinle iletişime geçilir."
+        }
+      },
+      "whatsappBox": {
+        "text": "Dilerseniz WhatsApp üzerinden de bizimle hemen iletişime geçebilirsiniz.",
+        "cta": "WhatsApp ile Görüşün"
+      },
+      "fields": {
+        "name": {
+          "label": "Ad Soyad",
+          "placeholder": "Adınızı ve soyadınızı yazın"
+        },
+        "phone": {
+          "label": "Telefon",
+          "placeholder": "5XX XXX XX XX"
+        },
+        "email": {
+          "label": "E-posta",
+          "placeholder": "E-posta adresinizi yazın"
+        },
+        "interest": {
+          "label": "İlgi Alanı",
+          "placeholder": "Seçiniz",
+          "options": {
+            "vineyardInvestment": "Bağ Yatırımı",
+            "activePortfolio": "Aktif Bağ Portföyleri",
+            "investmentModel": "Yatırım Modeli",
+            "general": "Genel Bilgi"
+          }
+        },
+        "budget": {
+          "label": "Yatırım Aralığı",
+          "placeholder": "Seçiniz",
+          "options": {
+            "range1": "500 Bin – 1 Milyon TL",
+            "range2": "1 – 3 Milyon TL",
+            "range3": "3 – 10 Milyon TL",
+            "range4": "10 Milyon TL+",
+            "undecided": "Henüz Belirlemedim"
+          }
+        },
+        "message": {
+          "label": "Mesajınız",
+          "placeholder": "Yatırım hedefleriniz, sorularınız veya eklemek istediğiniz detayları yazın..."
+        }
+      },
+      "privacyNote": "Gönderdiğiniz bilgiler yalnızca sizinle iletişime geçmek amacıyla kullanılır. Üçüncü taraflarla paylaşılmaz.",
+      "submit": "Yatırım Talebi Oluştur",
+      "returnNote": "En kısa sürede sizinle iletişime geçeceğiz.",
+      "sending": "Gönderiliyor...",
+      "successMessage": "Talebiniz alındı. En kısa sürede sizinle iletişime geçeceğiz.",
+      "errorMessage": "Form gönderilemedi. Lütfen tekrar deneyin."
     }
   }
 }

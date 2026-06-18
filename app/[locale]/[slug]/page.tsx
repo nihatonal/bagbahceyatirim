@@ -35,6 +35,11 @@ import FounderValuesSection from "@/components/about/FounderValuesSection";
 import ExpertiseBridgeSection from "@/components/about/ExpertiseBridgeSection";
 import FutureVisionSection from "@/components/about/FutureVisionSection";
 import InvestmentModelCtaSection from "@/components/investment-model/InvestmentModelCtaSection";
+import AboutCtaSection from "@/components/about/AboutCtaSection";
+import ContactHero from "@/components/contact/ContactHero";
+import ContactChannelsSection from "@/components/contact/ContactChannelsSection";
+import InvestmentInquiryFormSection from "@/components/contact/InvestmentInquiryFormSection";
+import ContactFaqSection from "@/components/contact/ContactFaqSection";
 
 type PageProps = {
   params: Promise<{
@@ -171,12 +176,23 @@ export default async function LocalizedSlugPage({ params }: PageProps) {
         <FounderValuesSection />
         <ExpertiseBridgeSection />
         <FutureVisionSection />
+        <AboutCtaSection />
+      </main>
+    );
+  }
+  if (routeKey === "contact") {
+    return (
+      <main>
+        <ContactHero />
+        <ContactChannelsSection />
+        <InvestmentInquiryFormSection />
+        <ContactFaqSection />
       </main>
     );
   }
 
   return (
-    <main className="min-h-screen bg-brand-ivory px-6 py-40 text-brand-charcoal">
+    <main className="min-h-screen  bg-brand-ivory px-6 py-40 text-brand-charcoal">
       <h1 className="font-display text-5xl">{routeKey}</h1>
     </main>
   );

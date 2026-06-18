@@ -26,8 +26,7 @@ export default function VineyardInvestmentHero() {
       imageAlt={t("imageAlt")}
       titleLines={[
         { text: t("titleLine1") },
-        { text: t("titleLine2"), gold: true },
-        { text: t("titleLine3") },
+        { text: t("titleLine2"), gold: true }
       ]}
       description={t("description")}
       ctas={[

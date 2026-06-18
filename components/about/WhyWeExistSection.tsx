@@ -18,7 +18,7 @@ export default function WhyWeExistSection() {
       />
       
       <Container>
-        <div className="relative min-h-[560px] overflow-hidden px-6 py-16 lg:px-14 lg:py-20">
+        <div className="relative min-h-[560px] overflow-hidden py-16 lg:py-20">
           <div className="relative z-10 flex min-h-[420px] items-center">
             <FadeUp className="max-w-2xl">
               <p className="mb-4 text-xs font-semibold uppercase tracking-luxury text-brand-gold">
