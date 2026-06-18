@@ -318,33 +318,45 @@
     },
     "faq": {
       "eyebrow": "Sık Sorulan Sorular",
+
       "valueTime": {
-        "question": "Bağ yatırımı ne kadar sürede değer kazanır?",
-        "answer": "Bağ yatırımı uzun vadeli bir modeldir. Değer artışı; arazi konumu, üretim verimi ve profesyonel işletme performansına göre zaman içinde oluşur."
+        "question": "Bağ yatırımı ne kadar sürede değer üretmeye başlar?",
+        "answer": "Bağ yatırımı uzun vadeli değer üretimine odaklanan bir modeldir. Değer oluşumu; arazi kalitesi, üretim performansı ve profesyonel işletme süreçlerinin birlikte yönetilmesiyle zaman içinde gerçekleşir."
       },
+
       "ownership": {
-        "question": "Tapu bana mı ait oluyor?",
-        "answer": "Yatırım modeline göre mülkiyet ve kullanım hakları açık şekilde belirlenir. Tüm detaylar yatırım sürecinde şeffaf olarak paylaşılır."
+        "question": "Sadece bağ mı satın alıyorum?",
+        "answer": "Hayır. Bağ Bahçe Yatırım modeli yalnızca arazi edinimine dayanmaz. Yatırımcılarımız, seçilmiş bağ varlıklarına ek olarak profesyonel işletme ve üretim modeline de dahil olur."
       },
+
+      "partnership": {
+        "question": "Yarıcılık modeli nasıl çalışıyor?",
+        "answer": "Yatırımcılarımız ile Bağ Bahçe Yatırım arasında Yarıcılık Sözleşmesi yapılır. Profesyonel ekiplerimiz bağın bakım, üretim ve operasyonel süreçlerini yönetirken, üretimden doğan gelirler sözleşmede belirlenen esaslara göre paylaşılır."
+      },
+
       "production": {
-        "question": "Üretimi kim gerçekleştiriyor?",
-        "answer": "Bağın bakım, üretim ve operasyonel süreçleri uzman ekipler tarafından profesyonel olarak yönetilir."
+        "question": "Üretim ve bağ yönetimini kim gerçekleştiriyor?",
+        "answer": "Bağın budama, bakım, sulama, hasat ve operasyonel süreçleri Bağ Bahçe Yatırım'ın uzman ekipleri tarafından profesyonel olarak yönetilir. Yatırımcılarımız günlük operasyonlarla ilgilenmek zorunda kalmaz."
       },
+
       "incomeModel": {
         "question": "Gelir modeli nasıl işliyor?",
-        "answer": "Gelir modeli; üretimden elde edilen gelir, değer artışı ve yatırım yapısına göre belirlenen paylaşım esasları üzerinden çalışır."
+        "answer": "Gelir modeli; üretimden elde edilen gelirler, bağın uzun vadeli değer artışı ve Yarıcılık Sözleşmesi kapsamında belirlenen paylaşım esasları üzerine kuruludur."
       },
+
       "minimumInvestment": {
         "question": "Minimum yatırım tutarı nedir?",
-        "answer": "Minimum yatırım tutarı portföydeki bağın yapısına ve yatırım dönemine göre değişebilir. Size uygun modeli birlikte değerlendirebiliriz."
+        "answer": "Minimum yatırım tutarı; seçilen bağ portföyü, yatırım büyüklüğü ve işletme modeline göre değişebilir. Uzmanlarımız size en uygun modeli birlikte değerlendirebilir."
       },
+
       "exit": {
-        "question": "Çıkış (satış) imkânı var mı?",
-        "answer": "Yatırım yapısına göre çıkış ve satış seçenekleri önceden planlanır. Detaylar yatırım görüşmesinde netleştirilir."
+        "question": "Yatırımdan çıkış veya satış imkânı var mı?",
+        "answer": "Yatırımın devri, çıkış ve satış seçenekleri yatırım yapısına göre önceden planlanır. Tüm süreçler yatırım görüşmeleri sırasında şeffaf şekilde paylaşılır."
       },
+
       "cta": {
         "title": "Bağ Yatırımınızı <gold>Birlikte Planlayalım</gold>",
-        "description": "Uzman ekibimiz, size en uygun yatırım modelini belirlemek için hazır.",
+        "description": "Uzman ekibimiz; bağ yatırımı, profesyonel işletme modeli ve Yarıcılık Sözleşmesi hakkında size özel bir değerlendirme hazırlamak için hazır.",
         "button": "Uzmanlarımızla Görüşün",
         "imageAlt": "Bağ manzarası ve yatırım görüşmesi atmosferi"
       }

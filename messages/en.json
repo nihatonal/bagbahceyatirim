@@ -325,34 +325,46 @@
     },
     "faq": {
       "eyebrow": "Frequently Asked Questions",
+
       "valueTime": {
-        "question": "How long does it take for a vineyard investment to gain value?",
-        "answer": "Vineyard investment is a long-term model. Value growth develops over time through land location, production efficiency and professional operation."
+        "question": "How long does it take for a vineyard investment to create value?",
+        "answer": "Vineyard investment is a long-term value creation model. Value is generated over time through the combined impact of land quality, production performance, and professional vineyard management."
       },
+
       "ownership": {
-        "question": "Is the title deed registered to me?",
-        "answer": "Ownership and usage rights are clearly defined according to the investment model. All details are shared transparently during the investment process."
+        "question": "Am I only purchasing a vineyard?",
+        "answer": "No. The Bağ Bahçe Yatırım model goes beyond simple land ownership. In addition to acquiring selected vineyard assets, investors participate in a professionally managed production and operating model."
       },
+
+      "partnership": {
+        "question": "How does the sharecropping model work?",
+        "answer": "A Sharecropping Agreement is established between the investor and Bağ Bahçe Yatırım. Our professional teams manage the vineyard's cultivation, production, and operational processes, while income generated from production is shared according to the terms defined in the agreement."
+      },
+
       "production": {
-        "question": "Who manages the production?",
-        "answer": "Vineyard care, production and operational processes are professionally managed by expert teams."
+        "question": "Who manages production and vineyard operations?",
+        "answer": "Pruning, cultivation, irrigation, harvesting, and all operational processes are professionally managed by Bağ Bahçe Yatırım's experienced teams. Investors are not required to be involved in day-to-day operations."
       },
+
       "incomeModel": {
         "question": "How does the income model work?",
-        "answer": "The income model operates through production income, value appreciation and distribution principles defined by the investment structure."
+        "answer": "The income model is based on production revenues, the long-term appreciation of vineyard assets, and the profit-sharing principles defined under the Sharecropping Agreement."
       },
+
       "minimumInvestment": {
         "question": "What is the minimum investment amount?",
-        "answer": "The minimum investment amount may vary depending on the vineyard portfolio and investment period. We can evaluate the suitable model together."
+        "answer": "The minimum investment amount varies depending on the selected vineyard portfolio, investment size, and operating model. Our advisors can help identify the solution best suited to your objectives."
       },
+
       "exit": {
-        "question": "Is there an exit or resale option?",
-        "answer": "Exit and resale options are planned according to the investment structure. Details are clarified during the investment consultation."
+        "question": "Are there exit or resale options?",
+        "answer": "Transfer, exit, and resale options are planned in advance according to the investment structure. All details are discussed transparently during the investment consultation process."
       },
+
       "cta": {
-        "title": "Let’s Plan Your <gold>Vineyard Investment</gold> Together",
-        "description": "Our expert team is ready to identify the investment model best suited to you.",
-        "button": "Speak with Our Experts",
+        "title": "Let's Plan Your <gold>Vineyard Investment Together</gold>",
+        "description": "Our team is ready to prepare a tailored assessment of our vineyard investment model, professional operating approach, and Sharecropping Agreement.",
+        "button": "Speak With Our Experts",
         "imageAlt": "Vineyard landscape and investment consultation atmosphere"
       }
     }
